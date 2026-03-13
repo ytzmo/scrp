@@ -1,0 +1,35 @@
+name: Scraper Banques
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Se lance toutes les 5 minutes
+  workflow_dispatch: # Permet de le lancer manuellement avec un bouton
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Autorise GitHub à sauvegarder le fichier JSON
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installer les dépendances
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium # (Seulement si tu utilises Playwright, sinon tu peux effacer cette ligne)
+
+      - name: Lancer le scraper
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python main.py
+
+      - name: Sauvegarder les nouvelles offres dans le JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Bot : Mise à jour des offres existantes"
