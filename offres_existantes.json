@@ -1,0 +1,646 @@
+{
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/150710": {
+    "title": "2026 | EMEA | Copenhagen | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Copenhagen, Hovedstaden, Denmark",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/150710"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325": {
+    "title": "2027 Markets Summer Analyst Program",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690282": {
+    "title": "2027 Markets Summer Analyst Program - Research",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690282"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721748": {
+    "title": "2026 Commercial & Investment Bank - Investment Banking Analyst Program – Off-cycle Intern - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721748"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717728": {
+    "title": "2026 Commercial & Investment Bank - Markets Off-Cycle Analyst Program - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717728"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720002": {
+    "title": "2026 Commercial & Investment Bank - Markets Off-Cycle Analyst Program - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720002"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717757": {
+    "title": "2026 Commercial & Investment Bank - Markets Off-Cycle Analyst Program - Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717757"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677068": {
+    "title": "International Private Bank, Analyst - China Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677068"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693792": {
+    "title": "International Private Bank, Analyst - China Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693792"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713700": {
+    "title": "International Private Bank, Analyst – Hong Kong Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713700"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678647": {
+    "title": "International Private Bank, Analyst – Hong Kong Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678647"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719938": {
+    "title": "International Private Bank, Analyst - China Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719938"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698842": {
+    "title": "International Private Bank, Analyst - China Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698842"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718783": {
+    "title": "Equities – APAC TMT Specialist Sales (APAC Internet & China Technology) – Associate / Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718783"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704313": {
+    "title": "2026 User Experience Research Internship - Emerging Talent Summer Experience Program",
+    "bank": "J.P. Morgan",
+    "location": "Columbus, OH, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704313"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704960": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - Frankfurt",
+    "bank": "J.P. Morgan",
+    "location": "Frankfurt a. Main, Germany",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704960"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701294": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - London",
+    "bank": "J.P. Morgan",
+    "location": "LONDON, LONDON, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701294"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701326": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - Paris",
+    "bank": "J.P. Morgan",
+    "location": "Paris, Paris, France",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701326"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704970": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship – Istanbul",
+    "bank": "J.P. Morgan",
+    "location": "Istanbul, Türkiye",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704970"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705004": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - Milan",
+    "bank": "J.P. Morgan",
+    "location": "Milan, Italy",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705004"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717327": {
+    "title": "Drive the Future Program - Sales Internal Solutions",
+    "bank": "J.P. Morgan",
+    "location": "Ciudad De Mexico, Mexico",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717327"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722681": {
+    "title": "International Private Bank, FX DAC, Associate, Switzerland",
+    "bank": "J.P. Morgan",
+    "location": "Geneve, GE, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722681"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723241": {
+    "title": "International Private Bank, United Arab Emirates Private Banker, Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723241"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721264": {
+    "title": "International Private Bank, Executive Director, Private Banker, Benelux Market",
+    "bank": "J.P. Morgan",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721264"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723689": {
+    "title": "International Private Bank, Investor for China Market, Vice President, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723689"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723717": {
+    "title": "International Private Bank, UHNW Investor, China Market (based in Singapore), Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723717"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703339": {
+    "title": "International Private Bank, Associate Client Advisor - Swiss Onshore Market",
+    "bank": "J.P. Morgan",
+    "location": "Zurich, ZH, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703339"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689990": {
+    "title": "International Private Bank - Investment Professional for Hong Kong Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689990"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707510": {
+    "title": "Asset Management - International Equities Investment Specialist - Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707510"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710185": {
+    "title": "International Private Bank, Investor, Benelux Market, Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Luxembourg",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710185"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690572": {
+    "title": "International Private Bank, Investment Professional for SEA Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690572"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690574": {
+    "title": "International Private Bank, Investment Professional for SEA Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690574"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649691": {
+    "title": "International Private Bank, Lending Advisor for Hong Kong Market, Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649691"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689670": {
+    "title": "International Private Bank - Hybrid Professional for China Market (Based in Hong Kong)",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689670"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706150": {
+    "title": "International Private Bank -Hybrid Professional for China Market (Based in Hong Kong)",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706150"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707124": {
+    "title": "International Private Bank, Banker Associate for Taiwan Market, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707124"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708502": {
+    "title": "International Private Bank, Vice President Client Advisor-Swiss Onshore Market",
+    "bank": "J.P. Morgan",
+    "location": "Zurich, ZH, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708502"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708525": {
+    "title": "International Private Bank, Executive Director Client Advisor- Swiss Onshore Market",
+    "bank": "J.P. Morgan",
+    "location": "Zurich, ZH, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708525"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713805": {
+    "title": "International Private Bank, United Arab Emirates, Private Banker, Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713805"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718289": {
+    "title": "International Private Bank - South East Asia - Markets Business Manager - Vice President - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718289"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719982": {
+    "title": "International Private Bank, UHNW Wealth Advisor, China Market, (based in Singapore), Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719982"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210618472": {
+    "title": "International Private Bank, Private Banker for Taiwan Market, based in Singapore, Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210618472"
+  },
+  "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Analyst--Associate--Equity-Research--Internet_26006316": {
+    "title": "Analyst/ Associate: Equity Research, Internet",
+    "bank": "Bank of America",
+    "location": "New York",
+    "program_type": "",
+    "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Analyst--Associate--Equity-Research--Internet_26006316"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets---Markets-Intern-Analyst--Tokyo-JPN--2026_26936330": {
+    "title": "Markets - Markets Intern Analyst, Tokyo-JPN, 2026",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets---Markets-Intern-Analyst--Tokyo-JPN--2026_26936330"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Intern-Analyst--Tokyo-JPN--2026_25913718": {
+    "title": "Banking - Investment Banking, Intern Analyst, Tokyo-JPN, 2026",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Intern-Analyst--Tokyo-JPN--2026_25913718"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/XMLNAME-2025-Markets-Internship-Colombia_25836348": {
+    "title": "2025 Markets Internship Colombia",
+    "bank": "Citi",
+    "location": "Bogota  Colombia",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/XMLNAME-2025-Markets-Internship-Colombia_25836348"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2025_25878360": {
+    "title": "Estágio Exclusivo PCD | Markets, Internship, São Paulo – Brazil, 2025",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2025_25878360"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Banking---Investment-Banking--Internship--So-Paulo---Brazil--2025_25880875": {
+    "title": "Estágio Exclusivo PCD - Especialista em Apresentações | Banking - Investment Banking, Internship, São Paulo – Brazil, 2025",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Banking---Investment-Banking--Internship--So-Paulo---Brazil--2025_25880875"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2025_25888135": {
+    "title": "Estágio Exclusivo PCD | Markets, Internship, São Paulo – Brazil, 2025",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2025_25888135"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/Markets---Sales-and-Trading--Internship--Bogot---Colombia--2026_25907844": {
+    "title": "Markets – Sales and Trading, Internship, Bogotá – Colombia, 2026",
+    "bank": "Citi",
+    "location": "Bogota  Colombia",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/Markets---Sales-and-Trading--Internship--Bogot---Colombia--2026_25907844"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Germany/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26933296": {
+    "title": "Markets - Sales, Trading & Structuring, Off-Cycle Internship, Frankfurt - Germany, 2026",
+    "bank": "Citi",
+    "location": "Germany",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Germany/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26933296"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Lima-Lima-Peru/Markets---Sales-and-Trading--Internship--Lima---Peru--2026-_26938498": {
+    "title": "Markets – Sales and Trading, Internship, Lima - Peru, 2026",
+    "bank": "Citi",
+    "location": "Lima Lima Peru",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Lima-Lima-Peru/Markets---Sales-and-Trading--Internship--Lima---Peru--2026-_26938498"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26941982": {
+    "title": "Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26941982"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Johannesburg--South-Africa/South-Africa-Winter-Internship-Program---Investment-Banking--South-Africa---Johannesburg--2026_26941153": {
+    "title": "South Africa Winter Internship Program - Investment Banking, South Africa - Johannesburg, 2026",
+    "bank": "Citi",
+    "location": "Johannesburg  South Africa",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Johannesburg--South-Africa/South-Africa-Winter-Internship-Program---Investment-Banking--South-Africa---Johannesburg--2026_26941153"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Summer-Internship-in-CCB-Solution-Sales-Department_26945153": {
+    "title": "Summer Internship in CCB Solution Sales Department",
+    "bank": "Citi",
+    "location": "Warsaw  Poland",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Summer-Internship-in-CCB-Solution-Sales-Department_26945153"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26945901": {
+    "title": "Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26945901"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Credit--Internship--So-Paulo---Brazil--2026_26944741": {
+    "title": "Client – Credit, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Credit--Internship--So-Paulo---Brazil--2026_26944741"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Equity-Research-Senior-Associate--Internet--Assistant-Vice-President_26944815": {
+    "title": "Equity Research Senior Associate, Internet, Assistant Vice President",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Equity-Research-Senior-Associate--Internet--Assistant-Vice-President_26944815"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Placement-Analyst-Internship--Paris--France-2026_26937241": {
+    "title": "Banking, Investment Banking, Placement Analyst Internship, Paris, France 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Placement-Analyst-Internship--Paris--France-2026_26937241"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Capital-Markets--Equity-Capital-Markets--Placement-Analyst-Internship--Paris--France-2026_26937203": {
+    "title": "Banking, Capital Markets, Equity Capital Markets, Placement Analyst Internship, Paris, France 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Capital-Markets--Equity-Capital-Markets--Placement-Analyst-Internship--Paris--France-2026_26937203"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Capital-Markets--Debt-Capital-Markets--Placement-Analyst-Internship--Paris--France-2026_26937211": {
+    "title": "Banking, Capital Markets, Debt Capital Markets, Placement Analyst Internship, Paris, France 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Capital-Markets--Debt-Capital-Markets--Placement-Analyst-Internship--Paris--France-2026_26937211"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Rates-Structuring----Off-Cycle-Internship--Paris---France--2026_26941703": {
+    "title": "Markets – Sales and Trading, Rates Structuring, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Rates-Structuring----Off-Cycle-Internship--Paris---France--2026_26941703"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Cash-Equities--Off-Cycle-Internship--Paris---France--2026_26941563": {
+    "title": "Markets – Sales and Trading, Cash Equities, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Cash-Equities--Off-Cycle-Internship--Paris---France--2026_26941563"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--EGB-Trading--Off-Cycle-Internship--Paris---France--2026_26941606": {
+    "title": "Markets – Sales and Trading, EGB Trading, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--EGB-Trading--Off-Cycle-Internship--Paris---France--2026_26941606"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Rates-Sales--Off-Cycle-Internship--Paris---France--2026_26943493": {
+    "title": "Markets – Sales and Trading, Rates Sales, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Rates-Sales--Off-Cycle-Internship--Paris---France--2026_26943493"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--FX-Corporate--Off-Cycle-Internship--Paris---France--2026_26941695": {
+    "title": "Markets – Sales and Trading, FX Corporate, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--FX-Corporate--Off-Cycle-Internship--Paris---France--2026_26941695"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--SFI-CEEMEA--Off-Cycle-Internship--Paris---France--2026_26945907": {
+    "title": "Markets – Sales and Trading, SFI CEEMEA, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--SFI-CEEMEA--Off-Cycle-Internship--Paris---France--2026_26945907"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Equity-Derivatives-Flow--Off-Cycle-Internship--Paris---France--2026_26941605": {
+    "title": "Markets – Sales and Trading, Equity Derivatives Flow, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Equity-Derivatives-Flow--Off-Cycle-Internship--Paris---France--2026_26941605"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Corporate-Solution-Group--Off-Cycle-Internship--Paris---France--2026_26943501": {
+    "title": "Markets – Sales and Trading, Corporate Solution Group, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Corporate-Solution-Group--Off-Cycle-Internship--Paris---France--2026_26943501"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Prime---Equity-Finance-Trading--Off-Cycle-Internship--Paris---France--2026_26941577": {
+    "title": "Markets – Sales and Trading, Prime / Equity Finance Trading, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Prime---Equity-Finance-Trading--Off-Cycle-Internship--Paris---France--2026_26941577"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--SFI-France---SFI-CEEMEA---Off-Cycle-Internship--Paris---France--2026_26943654": {
+    "title": "Markets – Sales and Trading, SFI France & SFI CEEMEA , Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--SFI-France---SFI-CEEMEA---Off-Cycle-Internship--Paris---France--2026_26943654"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Structured-Rates-Sales---Trading--Off-Cycle-Internship--Paris---France--2026--Open-_26943672": {
+    "title": "Markets – Sales and Trading, Structured Rates Sales & Trading, Off-Cycle Internship, Paris – France, 2026 (Open)",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Structured-Rates-Sales---Trading--Off-Cycle-Internship--Paris---France--2026--Open-_26943672"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--GSP-Structuring---ABS---CRE-Financing-and-Securitization--Off-Cycle-Internship--Paris---France--2026_26941655": {
+    "title": "Markets – Sales and Trading, GSP Structuring – ABS / CRE Financing and Securitization, Off-Cycle Internship, Paris – France, 2026",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--GSP-Structuring---ABS---CRE-Financing-and-Securitization--Off-Cycle-Internship--Paris---France--2026_26941655"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Markets---Commodities--Summer-Analyst--Houston---US--2027_25928720": {
+    "title": "Markets - Commodities, Summer Analyst, Houston - US, 2027",
+    "bank": "Citi",
+    "location": "Houston Texas United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Markets---Commodities--Summer-Analyst--Houston---US--2027_25928720"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Capital-Markets-LatAm--Summer-Analyst--New-York-City---US--2027_26932492": {
+    "title": "Banking - Capital Markets LatAm, Summer Analyst, New York City - US, 2027",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Capital-Markets-LatAm--Summer-Analyst--New-York-City---US--2027_26932492"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Banking---Investment-Banking--Summer-Analyst--Houston---US--2027_25926599": {
+    "title": "Banking - Investment Banking, Summer Analyst, Houston - US, 2027",
+    "bank": "Citi",
+    "location": "Houston Texas United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Banking---Investment-Banking--Summer-Analyst--Houston---US--2027_25926599"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--Summer-Analyst--New-York-City---US--2027_25926669": {
+    "title": "Banking - Investment Banking, Summer Analyst, New York City - US, 2027",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--Summer-Analyst--New-York-City---US--2027_25926669"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Alberta-Canada/Banking---Investment-Banking--Summer-Analyst--Calgary---CAN--2027_26946450": {
+    "title": "Banking - Investment Banking, Summer Analyst, Calgary - CAN, 2027",
+    "bank": "Citi",
+    "location": "Alberta Canada",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Alberta-Canada/Banking---Investment-Banking--Summer-Analyst--Calgary---CAN--2027_26946450"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747": {
+    "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Sales-and-Trading--Summer-Analyst--New-York-City---US--2027_25928736": {
+    "title": "Markets - Sales and Trading, Summer Analyst, New York City - US, 2027",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Sales-and-Trading--Summer-Analyst--New-York-City---US--2027_25928736"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Citi-Research--Global-Strategy---Macro-Group--Summer-Analyst--New-York-City---US-2026_25838553": {
+    "title": "Client - Citi Research, Global Strategy & Macro Group, Summer Analyst, New York City - US 2026",
+    "bank": "Citi",
+    "location": "New York New York United States",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Citi-Research--Global-Strategy---Macro-Group--Summer-Analyst--New-York-City---US-2026_25838553"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/XMLNAME-2025-LATAM-Markets-Analyst-Program---Colombia_25831823": {
+    "title": "2025 LATAM Markets Analyst Program - Colombia",
+    "bank": "Citi",
+    "location": "Bogota  Colombia",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bogota--Colombia/XMLNAME-2025-LATAM-Markets-Analyst-Program---Colombia_25831823"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Capital-Markets-Off-Cycle-Internship-Programme-2026-Milan_JR-0000066840": {
+    "title": "Capital Markets Off Cycle Internship Programme 2026 Milan",
+    "bank": "Barclays",
+    "location": "The Medelan Building, Milan",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/The-Medelan-Building-Milan/Capital-Markets-Off-Cycle-Internship-Programme-2026-Milan_JR-0000066840"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Origami-Paris/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810": {
+    "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
+    "bank": "Barclays",
+    "location": "Origami, Paris",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Origami-Paris/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Origami-Paris/Sales--Trading-and-Structuring-Graduate-Programme-2026-Paris_JR-0000070817": {
+    "title": "Sales, Trading and Structuring Graduate Programme 2026 Paris",
+    "bank": "Barclays",
+    "location": "Origami, Paris",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Origami-Paris/Sales--Trading-and-Structuring-Graduate-Programme-2026-Paris_JR-0000070817"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774609619755": {
+    "title": "Student Internship Programme 2H2026 - Global Markets - Hang Seng Bank (HK)",
+    "bank": "HSBC",
+    "location": "Central, Hong Kong Island, Hong Kong",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774609619755"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774610033718": {
+    "title": "Graduate, CIB Banking Japan",
+    "bank": "HSBC",
+    "location": "Tokyo, Tokyo, Japan",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774610033718"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-assistant-intern": {
+    "title": "Sales Assistant Intern",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-assistant-intern"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-loan-capital-markets-singapore": {
+    "title": "2026 APAC Long Internship (Jul - Dec) – Global Banking APAC, Loan Capital Markets – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-loan-capital-markets-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-mergers-acquisitions-singapore": {
+    "title": "2026 APAC Long Internship (Jul - Dec) – Global Banking APAC, Mergers & Acquisitions – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-mergers-acquisitions-singapore"
+  },
+  "https://careers.societegenerale.com/en/job-offers/2026intern-real-estate-investment-banking-q2-m-f-d-25000PQL-en": {
+    "title": "2026_Intern Real Estate Investment Banking Q2 – M/F/D",
+    "bank": "Société Générale",
+    "location": "Francfort-sur-le-Main, Hesse, Allemagne",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/2026intern-real-estate-investment-banking-q2-m-f-d-25000PQL-en"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210557635": {
+    "title": "International Private Bank, Private Banker for Taiwan Market, based in Hong Kong, Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210557635"
+  }
+}
