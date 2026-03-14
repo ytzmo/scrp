@@ -19,8 +19,9 @@ import subprocess
 import random
 from datetime import datetime
 
-from config import PROGRAM_KEYWORDS, DEPT_KEYWORDS, EXCLUDE_KEYWORDS, SEEN_FILE
-from notifier import send_discord_alert, send_health_report
+from config import PROGRAM_KEYWORDS, DEPT_KEYWORDS, EXCLUDE_KEYWORDS, SEEN_FILE, LAST_REPORT_FILE
+from notifier import send_discord_alert, send_health_report, send_status_report
+from storage import save_seen, count_seen
 
 # Import de tous les scrapers
 from scrapers import goldman_sachs, jpmorgan, morgan_stanley, bofa, citi
@@ -151,24 +152,55 @@ def push_seen_to_github():
         subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions Bot"], check=True, stdout=subprocess.DEVNULL)
         subprocess.run(["git", "config", "--global", "user.email", "actions@github.com"], check=True, stdout=subprocess.DEVNULL)
         
-        # Ajouter le fichier JSON
-        subprocess.run(["git", "add", SEEN_FILE], check=True)
+        # Ajouter les fichiers d'état
+        subprocess.run(["git", "add", SEEN_FILE, LAST_REPORT_FILE], check=True)
         
         # Vérifier s'il y a des changements à commit
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if SEEN_FILE in status.stdout:
+        if SEEN_FILE in status.stdout or LAST_REPORT_FILE in status.stdout:
             # Créer le commit
-            subprocess.run(["git", "commit", "-m", "Auto-update: offres_existantes.json"], check=True)
+            subprocess.run(["git", "commit", "-m", "Auto-update: offres_existantes.json et last_report.txt"], check=True)
             # Pousser sur le dépôt
             subprocess.run(["git", "push"], check=True)
-            print(f"{GREEN}✅ Fichier {SEEN_FILE} sauvegardé et poussé sur GitHub avec succès.{RESET}")
+            print(f"{GREEN}✅ Fichiers d'état sauvegardés et poussés sur GitHub avec succès.{RESET}")
         else:
-            print(f"{BLUE}  → Aucun changement dans {SEEN_FILE}, pas de commit nécessaire.{RESET}")
+            print(f"{BLUE}  → Aucun changement dans les fichiers d'état, pas de commit nécessaire.{RESET}")
     except subprocess.CalledProcessError as e:
         print(f"{RED}❌ Erreur lors du push GitHub : {e}{RESET}")
     except Exception as e:
         print(f"{RED}❌ Erreur inattendue lors de la sauvegarde : {e}{RESET}")
 
+
+# ─────────────────────────────────────────────────────────────
+# RAPPORT 3H
+# ─────────────────────────────────────────────────────────────
+
+def check_and_send_3h_report(seen_count: int):
+    """
+    Vérifie le dernier envoi du rapport 3h dans last_report.txt.
+    Si > 3 heures se sont écoulées, envoie le rapport et met à jour le fichier.
+    """
+    import os
+    import time
+    
+    now = time.time()
+    last_sent = 0.0
+    
+    if os.path.exists(LAST_REPORT_FILE):
+        try:
+            with open(LAST_REPORT_FILE, "r", encoding="utf-8") as f:
+                last_sent = float(f.read().strip())
+        except ValueError:
+            pass
+            
+    # 3 heures = 3 * 3600 secondes = 10800
+    if now - last_sent >= 10800:
+        send_status_report(seen_count)
+        try:
+            with open(LAST_REPORT_FILE, "w", encoding="utf-8") as f:
+                f.write(str(now))
+        except OSError as e:
+            print(f"[main] ❌ Impossible de sauvegarder {LAST_REPORT_FILE}: {e}")
 
 # ─────────────────────────────────────────────────────────────
 # PHASE 2 — REFRESH
@@ -213,6 +245,12 @@ def refresh(seen: dict) -> dict:
         refresh._health_sent_today = True
     elif datetime.now().hour != 8:
         refresh._health_sent_today = False
+
+    # Rapport d'état toutes les 3h
+    try:
+        check_and_send_3h_report(count_seen(seen))
+    except Exception as e:
+        print(f"[main] ❌ Erreur lors du rapport 3h : {e}")
 
     return seen
 
