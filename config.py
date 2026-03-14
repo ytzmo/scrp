@@ -17,6 +17,7 @@ DISCORD_BOT_NAME   = "Bank Sniper 🏦"
 # FICHIER DE PERSISTANCE
 # ─────────────────────────────────────────────
 SEEN_FILE = "offres_existantes.json"
+LAST_REPORT_FILE = "last_report.txt"
 
 # ─────────────────────────────────────────────
 # TIMING
