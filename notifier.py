@@ -98,3 +98,24 @@ def send_health_report(total_jobs: int) -> None:
         requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=10)
     except requests.RequestException:
         pass
+
+
+def send_status_report(total_jobs: int) -> None:
+    """Envoie un rapport d'état confirmant que le bot tourne (toutes les 3h)."""
+    embed = {
+        "title": "⏱️ Bank Sniper — Rapport de routine (3h)",
+        "description": (
+            f"Le scraper tourne toujours.\n"
+            f"**Offres en base :** {total_jobs}"
+        ),
+        "color": 0x3498DB,  # bleu clair
+    }
+    payload = {
+        "username":   DISCORD_BOT_NAME,
+        "avatar_url": DISCORD_AVATAR_URL,
+        "embeds":     [embed],
+    }
+    try:
+        requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=10)
+    except requests.RequestException:
+        pass
