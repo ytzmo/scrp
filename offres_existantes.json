@@ -705,5 +705,12 @@
     "location": "Sydney, NSW, Australia",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699990"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724501": {
+    "title": "Asset Management - International Equities Investment Specialist - Vice President",
+    "bank": "J.P. Morgan",
+    "location": "NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724501"
   }
 }
