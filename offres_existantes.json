@@ -859,5 +859,12 @@
     "location": "New York, New York, United States",
     "program_type": "Campus",
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/138799"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725390": {
+    "title": "International Private Bank, Lending Advisor for Hong Kong Market, Vice President, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725390"
   }
 }
