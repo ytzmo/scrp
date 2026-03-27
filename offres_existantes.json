@@ -1048,5 +1048,12 @@
     "location": "Ciudad de Mexico, Mexico",
     "program_type": "Campus",
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/151755"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729764": {
+    "title": "International Private Bank, UHNW Investor, China Market (based in Singapore), Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729764"
   }
 }
