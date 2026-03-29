@@ -1,7 +1,8 @@
 import time
 from scrapers import (
     goldman_sachs, jpmorgan, morgan_stanley, bofa,
-    citi, barclays, hsbc, bnp_paribas, societe_generale, credit_agricole
+    citi, barclays, hsbc, bnp_paribas, societe_generale, credit_agricole,
+    euronext, natixis
 )
 
 scrapers = [
@@ -15,9 +16,11 @@ scrapers = [
     ("BNP Paribas", bnp_paribas),
     ("Société Générale", societe_generale),
     ("Crédit Agricole", credit_agricole),
+    ("Euronext", euronext),
+    ("Natixis", natixis),
 ]
 
-print("=== TEST DES 10 BANQUES ==================")
+print("=== TEST DES 12 BANQUES ==================")
 for name, module in scrapers:
     try:
         t0 = time.time()
