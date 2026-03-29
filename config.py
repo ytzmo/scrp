@@ -1,6 +1,6 @@
 """
 config.py — Configuration centrale du scraper.
-Modifiez DISCORD_WEBHOOK_URL avec votre URL avant de lancer le script.
+Modifiez DISCORD_WEBHOOK_OFFERS et DISCORD_WEBHOOK_REPORTS avec vos URLs avant de lancer le script.
 """
 
 import os
@@ -8,10 +8,13 @@ import os
 # ─────────────────────────────────────────────
 # DISCORD
 # ─────────────────────────────────────────────
-DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK", "")
+# Webhook pour les alertes de nouvelles offres
+DISCORD_WEBHOOK_OFFERS  = os.environ.get("DISCORD_WEBHOOK_OFFERS", "")
+# Webhook pour les rapports d'activité (health check, rapport 3h)
+DISCORD_WEBHOOK_REPORTS = os.environ.get("DISCORD_WEBHOOK_REPORTS", "")
 # Avatar optionnel affiché par le bot Discord
-DISCORD_AVATAR_URL = "https://i.imgur.com/4M34hi2.png"
-DISCORD_BOT_NAME   = "Bank Sniper 🏦"
+DISCORD_AVATAR_URL = "hhttps://media.discordapp.net/attachments/1446637525169864774/1452101098679566417/image.png?ex=69ca71c8&is=69c92048&hm=c6abeec70d838eae88b25db5865ee31187808ccd2f67c1e899101b1b6833851c&=&format=webp&quality=lossless&width=702&height=700"
+DISCORD_BOT_NAME   = "Bank Sniper"
 
 # ─────────────────────────────────────────────
 # FICHIER DE PERSISTANCE
@@ -84,7 +87,6 @@ DEPT_KEYWORDS = [
 # FILTRES — Exclusions strictes (si l'un d'eux est dans le titre → rejeté)
 # ─────────────────────────────────────────────
 EXCLUDE_KEYWORDS = [
-    "risk",
     "compliance",
     "operations",
     " ops",
