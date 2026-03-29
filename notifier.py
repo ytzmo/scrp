@@ -10,7 +10,7 @@ Chaque nouvelle offre génère un embed riche avec :
 """
 
 import requests
-from config import DISCORD_WEBHOOK_URL, DISCORD_AVATAR_URL, DISCORD_BOT_NAME
+from config import DISCORD_WEBHOOK_OFFERS, DISCORD_WEBHOOK_REPORTS, DISCORD_AVATAR_URL, DISCORD_BOT_NAME
 
 # Couleurs Discord par banque (optionnel, pour le côté esthétique)
 BANK_COLORS = {
@@ -24,6 +24,8 @@ BANK_COLORS = {
     "BNP Paribas":      0x00965E,  # vert BNP
     "Société Générale": 0xE2000F,  # rouge SG
     "Crédit Agricole":  0x027E45,  # vert CA
+    "Euronext":         0x0B1E5E,  # bleu marine Euronext
+    "Natixis":          0xE6007E,  # magenta Natixis
 }
 DEFAULT_COLOR = 0x5865F2  # violet Discord
 
@@ -67,7 +69,7 @@ def send_discord_alert(job: dict) -> bool:
 
     try:
         resp = requests.post(
-            DISCORD_WEBHOOK_URL,
+            DISCORD_WEBHOOK_OFFERS,
             json=payload,
             timeout=10,
         )
@@ -95,7 +97,7 @@ def send_health_report(total_jobs: int) -> None:
         "embeds":     [embed],
     }
     try:
-        requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=10)
+        requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
     except requests.RequestException:
         pass
 
@@ -116,6 +118,6 @@ def send_status_report(total_jobs: int) -> None:
         "embeds":     [embed],
     }
     try:
-        requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=10)
+        requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
     except requests.RequestException:
         pass
