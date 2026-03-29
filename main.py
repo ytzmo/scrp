@@ -26,6 +26,7 @@ from storage import save_seen, count_seen
 # Import de tous les scrapers
 from scrapers import goldman_sachs, jpmorgan, morgan_stanley, bofa, citi
 from scrapers import barclays, hsbc, bnp_paribas, societe_generale, credit_agricole
+from scrapers import euronext, natixis
 
 # ─────────────────────────────────────────────────────────────
 # COULEURS TERMINAL
@@ -51,6 +52,8 @@ SCRAPERS = [
     bnp_paribas,
     societe_generale,
     credit_agricole,
+    euronext,
+    natixis,
 ]
 
 # ─────────────────────────────────────────────────────────────
@@ -270,7 +273,7 @@ def _test_notification():
     }
     print("Envoi d'une notification de test Discord...")
     ok = send_discord_alert(fake_job)
-    print("✅ Succès !" if ok else "❌ Échec — vérifiez votre DISCORD_WEBHOOK_URL dans config.py")
+    print("✅ Succès !" if ok else "❌ Échec — vérifiez votre DISCORD_WEBHOOK_OFFERS dans config.py")
 
 
 if __name__ == "__main__":
