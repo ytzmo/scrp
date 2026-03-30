@@ -1209,5 +1209,19 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-market-risk-cca-credit-f-h"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/capital-markets-execution-officer-trainee": {
+    "title": "Capital Markets - Execution Officer Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/capital-markets-execution-officer-trainee"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/intern-fx-trader-mfos-trading-desk-m-f-1": {
+    "title": "Intern – FX Trader MFOS   Trading Desk (M/F)",
+    "bank": "BNP Paribas",
+    "location": "Luxembourg, Luxembourg, Luxembourg",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/intern-fx-trader-mfos-trading-desk-m-f-1"
   }
 }
