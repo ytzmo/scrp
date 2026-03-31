@@ -1230,5 +1230,26 @@
     "location": "PARIS, Paris, France",
     "program_type": "ATS",
     "url": "https://portal.careers.hsbc.com/careers/job/563774610159408"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730807": {
+    "title": "International Private Bank, Associate Transition Banker, CEE & UK Markets, Luxembourg",
+    "bank": "J.P. Morgan",
+    "location": "Luxembourg, Luxembourg, Luxembourg",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730807"
+  },
+  "https://careers.societegenerale.com/en/job-offers/2026intern-real-estate-investment-banking-m-f-d-25000HQX-en": {
+    "title": "2026_Intern Real Estate Investment Banking – M/F/D",
+    "bank": "Société Générale",
+    "location": "Francfort-sur-le-Main, Hesse, Allemagne",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/2026intern-real-estate-investment-banking-m-f-d-25000HQX-en"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/578-170466-4-graduate-trainee-in-global-markets-division---reference--2026-110921--/": {
+    "title": "Graduate Trainee in Global Markets Division 环球金融市场部管培生-上海/北京",
+    "bank": "Crédit Agricole",
+    "location": "Shanghai/Beijing - Chine",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/578-170466-4-graduate-trainee-in-global-markets-division---reference--2026-110921--/"
   }
 }
