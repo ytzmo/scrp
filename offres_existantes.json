@@ -1300,5 +1300,12 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-b2b-marketing-product-manager-f-h"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731504": {
+    "title": "International Private Bank- FX DAC- Executive Director- LATAM",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731504"
   }
 }
