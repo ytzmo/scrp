@@ -22,11 +22,12 @@ jobs:
       - name: Installer les dépendances
         run: |
           pip install -r requirements.txt
-          playwright install chromium # (Seulement si tu utilises Playwright, sinon tu peux effacer cette ligne)
+          # playwright install chromium # (Décommente si tu utilises Playwright)
 
       - name: Lancer le scraper
         env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK_OFFERS: ${{ secrets.DISCORD_WEBHOOK_OFFERS }}
+          DISCORD_WEBHOOK_REPORTS: ${{ secrets.DISCORD_WEBHOOK_REPORTS }}
         run: python main.py
 
       - name: Sauvegarder les nouvelles offres dans le JSON
