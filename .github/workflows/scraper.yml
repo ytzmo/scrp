@@ -19,6 +19,19 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Installer Tor
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tor
+          sudo service tor start
+          sleep 5
+          # Vérifier que Tor est bien démarré sur le port 9050
+          if curl --socks5 127.0.0.1:9050 --connect-timeout 15 https://check.torproject.org/api/ip 2>/dev/null | grep -q '"IsTor":true'; then
+            echo "✅ Tor est fonctionnel"
+          else
+            echo "⚠️ Tor n'a pas pu se connecter, on continue sans"
+          fi
+
       - name: Installer les dépendances
         run: |
           pip install -r requirements.txt
@@ -28,6 +41,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_OFFERS: ${{ secrets.DISCORD_WEBHOOK_OFFERS }}
           DISCORD_WEBHOOK_REPORTS: ${{ secrets.DISCORD_WEBHOOK_REPORTS }}
+          TOR_PROXY: "socks5://127.0.0.1:9050"
         run: python main.py
 
       - name: Sauvegarder les nouvelles offres dans le JSON
