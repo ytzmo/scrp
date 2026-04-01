@@ -5,12 +5,13 @@ Scrape la page dédiée CIB stages/internships sur group.bnpparibas.
 Pagine automatiquement toutes les pages pour récupérer l'intégralité
 des offres.
 
-Stratégie :
-  1. curl_cffi (rapide) — fonctionne depuis une IP résidentielle.
-  2. Playwright (fallback) — contourne la protection anti-bot depuis
-     les IPs datacenter (GitHub Actions).
+group.bnpparibas est protégé par Akamai qui bloque les IPs datacenter.
+curl_cffi avec impersonation TLS fonctionne depuis une IP résidentielle.
+Depuis GitHub Actions, on route le trafic via Tor (SOCKS5 proxy sur
+127.0.0.1:9050) pour obtenir une IP non-datacenter.
 """
 
+import os
 import random
 import time
 from bs4 import BeautifulSoup
@@ -27,9 +28,15 @@ _PAGE_URL  = (
 
 _MAX_PAGES = 30  # Garde-fou : ne jamais dépasser 30 pages
 
+# Impersonations à tester dans l'ordre
+_BROWSERS = ["safari15_3", "chrome110", "chrome116", "safari17_0"]
+
+# Proxy Tor SOCKS5 (démarré par GitHub Actions)
+_TOR_PROXY = os.environ.get("TOR_PROXY", "")
+
 
 # ─────────────────────────────────────────────
-# PARSING HTML (commun aux deux stratégies)
+# PARSING HTML
 # ─────────────────────────────────────────────
 
 def _parse_articles(html: str) -> list[dict]:
@@ -69,17 +76,34 @@ def _get_max_page(html: str) -> int:
 
 
 # ─────────────────────────────────────────────
-# STRATÉGIE 1 : curl_cffi (rapide, IP rési)
+# SCRAPING AVEC curl_cffi (+ proxy optionnel)
 # ─────────────────────────────────────────────
 
-def _scrape_curl() -> list[dict]:
+def _scrape_with_browser(browser_id: str, proxy: str = "") -> list[dict]:
+    """
+    Scrape toutes les pages en utilisant une impersonation TLS donnée.
+    Si proxy est fourni (ex: socks5://127.0.0.1:9050), route via ce proxy.
+    Retourne [] si la première page échoue.
+    """
     from curl_cffi import requests as curl_req
 
     headers = {
         "User-Agent": random.choice(USER_AGENTS),
-        "Accept":     "text/html,application/xhtml+xml",
-        "Referer":    "https://group.bnpparibas/",
+        "Accept":     "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Referer":    "https://group.bnpparibas/emploi-carriere/",
+        "Cache-Control": "no-cache",
+        "Connection":    "keep-alive",
     }
+
+    kwargs = {
+        "headers":     headers,
+        "impersonate": browser_id,
+        "timeout":     45,
+    }
+    if proxy:
+        kwargs["proxy"] = proxy
 
     all_results: list[dict] = []
     seen_urls: set[str] = set()
@@ -87,10 +111,12 @@ def _scrape_curl() -> list[dict]:
 
     for page in range(1, _MAX_PAGES + 1):
         url = _PAGE_URL if page == 1 else f"{_PAGE_URL}?page={page}"
-        resp = curl_req.get(
-            url, headers=headers, impersonate="safari15_3", timeout=30
-        )
+        resp = curl_req.get(url, **kwargs)
+
         if resp.status_code != 200:
+            if page == 1:
+                via = f" via proxy {proxy}" if proxy else ""
+                print(f"  [BNP] {browser_id}{via}: HTTP {resp.status_code}")
             break
 
         if page == 1:
@@ -113,76 +139,32 @@ def _scrape_curl() -> list[dict]:
 
 
 # ─────────────────────────────────────────────
-# STRATÉGIE 2 : Playwright (fallback datacenter)
-# ─────────────────────────────────────────────
-
-def _scrape_playwright() -> list[dict]:
-    from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
-
-    ua = random.choice(USER_AGENTS)
-    all_results: list[dict] = []
-    seen_urls: set[str] = set()
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        ctx     = browser.new_context(user_agent=ua)
-        page    = ctx.new_page()
-
-        max_page = 1
-
-        for page_num in range(1, _MAX_PAGES + 1):
-            url = _PAGE_URL if page_num == 1 else f"{_PAGE_URL}?page={page_num}"
-            try:
-                page.goto(url, wait_until="domcontentloaded", timeout=30_000)
-                # Attendre que les cartes d'offres se chargent
-                page.wait_for_selector("article.card-offer", timeout=10_000)
-            except PWTimeout:
-                break
-            except Exception:
-                break
-
-            html = page.content()
-
-            if page_num == 1:
-                max_page = min(_get_max_page(html), _MAX_PAGES)
-
-            articles = _parse_articles(html)
-            if not articles:
-                break
-
-            for art in articles:
-                if art["url"] not in seen_urls:
-                    seen_urls.add(art["url"])
-                    all_results.append(art)
-
-            if page_num >= max_page:
-                break
-            time.sleep(random.uniform(0.8, 1.5))
-
-        browser.close()
-
-    return all_results
-
-
-# ─────────────────────────────────────────────
 # POINT D'ENTRÉE
 # ─────────────────────────────────────────────
 
 def scrape() -> list[dict]:
-    # Essai 1 : curl_cffi (rapide, marche en local / IP résidentielle)
-    try:
-        results = _scrape_curl()
-        if results:
-            return results
-    except Exception as e:
-        print(f"  [BNP] curl_cffi échoué ({e}), fallback Playwright...")
+    # ── Étape 1 : essai direct (marche depuis IP résidentielle) ──
+    for browser_id in _BROWSERS:
+        try:
+            results = _scrape_with_browser(browser_id)
+            if results:
+                return results
+        except Exception as e:
+            print(f"  [BNP] {browser_id} direct: {e}")
+            continue
 
-    # Essai 2 : Playwright (contourne l'anti-bot datacenter)
-    try:
-        results = _scrape_playwright()
-        if results:
-            return results
-    except Exception as e:
-        print(f"  [BNP] Playwright échoué ({e})")
+    # ── Étape 2 : essai via proxy Tor (si disponible) ──
+    if _TOR_PROXY:
+        print(f"  [BNP] Essai via Tor ({_TOR_PROXY})...")
+        for browser_id in _BROWSERS:
+            try:
+                results = _scrape_with_browser(browser_id, proxy=_TOR_PROXY)
+                if results:
+                    print(f"  [BNP] ✅ Succès via Tor avec {browser_id}")
+                    return results
+            except Exception as e:
+                print(f"  [BNP] {browser_id} via Tor: {e}")
+                continue
 
+    print("  [BNP] ⚠️ Toutes les méthodes ont échoué")
     return []
