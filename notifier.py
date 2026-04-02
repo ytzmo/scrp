@@ -85,7 +85,6 @@ def send_discord_alert(job: dict) -> bool:
         print(f"[notifier] ❌ Erreur réseau Discord : {e}")
         return False
 
-
 def send_health_report(total_jobs: int) -> None:
     """Envoie un heartbeat Discord quotidien confirmant que le bot tourne."""
     embed = {
@@ -103,19 +102,17 @@ def send_health_report(total_jobs: int) -> None:
         "embeds":     [embed],
     }
     try:
-        requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
+        # ✅ CORRECTION : on assigne à "resp"
+        resp = requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
         if resp.status_code in (200, 204):
             return True
         else:
-            # ICI on force l'affichage de l'erreur envoyée par Discord !
             print(f"[notifier] ❌ Rejeté par Discord (Code {resp.status_code}) : {resp.text}")
             print(f"[notifier] 🔍 Payload envoyé : {payload}")
             return False
     except requests.RequestException as e:
         print(f"[notifier] ❌ Erreur réseau Discord : {e}")
         return False
-
-
 
 
 def send_status_report(total_jobs: int) -> None:
@@ -134,11 +131,11 @@ def send_status_report(total_jobs: int) -> None:
         "embeds":     [embed],
     }
     try:
-        requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
+        # ✅ CORRECTION : on assigne à "resp"
+        resp = requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
         if resp.status_code in (200, 204):
             return True
         else:
-            # ICI on force l'affichage de l'erreur envoyée par Discord !
             print(f"[notifier] ❌ Rejeté par Discord (Code {resp.status_code}) : {resp.text}")
             print(f"[notifier] 🔍 Payload envoyé : {payload}")
             return False
