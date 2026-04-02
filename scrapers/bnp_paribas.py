@@ -116,7 +116,6 @@ def _scrape_with_browser(browser_id: str, proxy: str = "") -> list[dict]:
         if resp.status_code != 200:
             if page == 1:
                 via = f" via proxy {proxy}" if proxy else ""
-                print(f"  [BNP] {browser_id}{via}: HTTP {resp.status_code}")
             break
 
         if page == 1:
