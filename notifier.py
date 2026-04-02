@@ -74,9 +74,15 @@ def send_discord_alert(job: dict) -> bool:
             timeout=10,
         )
         # Discord renvoie 204 No Content en cas de succès
-        return resp.status_code in (200, 204)
+        if resp.status_code in (200, 204):
+            return True
+        else:
+            # ICI on force l'affichage de l'erreur envoyée par Discord !
+            print(f"[notifier] ❌ Rejeté par Discord (Code {resp.status_code}) : {resp.text}")
+            print(f"[notifier] 🔍 Payload envoyé : {payload}")
+            return False
     except requests.RequestException as e:
-        print(f"[notifier] ❌ Erreur Discord : {e}")
+        print(f"[notifier] ❌ Erreur réseau Discord : {e}")
         return False
 
 
@@ -98,8 +104,18 @@ def send_health_report(total_jobs: int) -> None:
     }
     try:
         requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
-    except requests.RequestException:
-        pass
+        if resp.status_code in (200, 204):
+            return True
+        else:
+            # ICI on force l'affichage de l'erreur envoyée par Discord !
+            print(f"[notifier] ❌ Rejeté par Discord (Code {resp.status_code}) : {resp.text}")
+            print(f"[notifier] 🔍 Payload envoyé : {payload}")
+            return False
+    except requests.RequestException as e:
+        print(f"[notifier] ❌ Erreur réseau Discord : {e}")
+        return False
+
+
 
 
 def send_status_report(total_jobs: int) -> None:
@@ -119,5 +135,13 @@ def send_status_report(total_jobs: int) -> None:
     }
     try:
         requests.post(DISCORD_WEBHOOK_REPORTS, json=payload, timeout=10)
-    except requests.RequestException:
-        pass
+        if resp.status_code in (200, 204):
+            return True
+        else:
+            # ICI on force l'affichage de l'erreur envoyée par Discord !
+            print(f"[notifier] ❌ Rejeté par Discord (Code {resp.status_code}) : {resp.text}")
+            print(f"[notifier] 🔍 Payload envoyé : {payload}")
+            return False
+    except requests.RequestException as e:
+        print(f"[notifier] ❌ Erreur réseau Discord : {e}")
+        return False
