@@ -1692,5 +1692,12 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-alternative-credit-structure-f-w"
+  },
+  "https://careers.societegenerale.com/en/job-offers/trading-intern-260008ZM-en": {
+    "title": "Trading Intern",
+    "bank": "Société Générale",
+    "location": "Sao Paulo, Brésil",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/trading-intern-260008ZM-en"
   }
 }
