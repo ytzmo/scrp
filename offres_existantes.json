@@ -1776,5 +1776,33 @@
     "location": "Singapore, Singapore",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735570"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735572": {
+    "title": "International Private Bank, UHNW Client Advisor, Executive Director, Thailand  Market, Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735572"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-global-capital-markets-transportation-singapore": {
+    "title": "2026 APAC Long Internship (Jul - Dec) – Global Banking APAC, Global Capital Markets – Transportation – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-global-capital-markets-transportation-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-credit-management-singapore": {
+    "title": "2026 APAC Long Internship (Jul - Dec) – Global Banking APAC, Credit Management – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2026-apac-long-internship-jul-dec-global-banking-apac-credit-management-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-titrisation-h-f": {
+    "title": "Stage - Analyste Quantitatif Titrisation - H/F",
+    "bank": "BNP Paribas",
+    "location": "Paris, Île-de-France, France",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-analyste-quantitatif-titrisation-h-f"
   }
 }
