@@ -1986,5 +1986,19 @@
     "location": "Luxembourg, Luxembourg, Luxembourg",
     "program_type": "Stage / Internship",
     "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/internship-research-analyst-or-strategy-market-intelligence-m-f-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-credit-portfolio-manager-h-f": {
+    "title": "Stage - Credit Portfolio Manager - H/F",
+    "bank": "BNP Paribas",
+    "location": "Paris, Île-de-France, France",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-credit-portfolio-manager-h-f"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-portfolio-manager-fund-financing-h-f": {
+    "title": "Stage - Portfolio Manager - Fund Financing - H/F",
+    "bank": "BNP Paribas",
+    "location": "Paris, Île-de-France, France",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-portfolio-manager-fund-financing-h-f"
   }
 }
