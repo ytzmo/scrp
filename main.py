@@ -1,23 +1,14 @@
 """
-main.py — Orchestrateur principal du Bank Internship Scraper
-
-Logique :
-  1. INITIALISATION : scrape toutes les banques, stocke les offres dans
-     offres_existantes.json, N'envoie PAS de notification Discord.
-  2. BOUCLE (toutes les 5 min) : re-scrape, compare, envoie une alerte
-     Discord uniquement pour les nouvelles offres.
-
-Usage :
-  python3 main.py             → boucle infinie (mode production)
-  python3 main.py --init-only → initialise puis quitte (mode test)
-  python3 main.py --test-notif → envoie une fausse offre sur Discord pour tester l'embed
+main.py — Orchestrateur principal du Bank Internship Scraper (Version Serveur Web / Render)
 """
 
 import sys
 import time
 import subprocess
 import random
+import os
 from datetime import datetime
+from flask import Flask
 
 from config import PROGRAM_KEYWORDS, DEPT_KEYWORDS, EXCLUDE_KEYWORDS, SEEN_FILE, LAST_REPORT_FILE
 from notifier import send_discord_alert, send_health_report, send_status_report
@@ -142,36 +133,15 @@ def initialize() -> dict:
 
 
 # ─────────────────────────────────────────────────────────────
-# COMMIT GITHUB ACTIONS
+# COMMIT GITHUB ACTIONS (Désactivé pour Render, gardé en archive)
 # ─────────────────────────────────────────────────────────────
 def push_seen_to_github():
     """
-    Commit et push le fichier offres_existantes.json sur GitHub
-    pour sauvegarder l'état entre chaque lancement du Cron.
+    Commit et push le fichier offres_existantes.json sur GitHub.
+    Désactivé par défaut sur Render car le disque local garde la mémoire.
     """
-    print(f"\n{BOLD}{YELLOW}━━━ SAUVEGARDE GITHUB ━━━{RESET}")
-    try:
-        # Configurer l'utilisateur Git pour le commit
-        subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions Bot"], check=True, stdout=subprocess.DEVNULL)
-        subprocess.run(["git", "config", "--global", "user.email", "actions@github.com"], check=True, stdout=subprocess.DEVNULL)
-        
-        # Ajouter les fichiers d'état
-        subprocess.run(["git", "add", SEEN_FILE, LAST_REPORT_FILE], check=True)
-        
-        # Vérifier s'il y a des changements à commit
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if SEEN_FILE in status.stdout or LAST_REPORT_FILE in status.stdout:
-            # Créer le commit
-            subprocess.run(["git", "commit", "-m", "Auto-update: offres_existantes.json et last_report.txt"], check=True)
-            # Pousser sur le dépôt
-            subprocess.run(["git", "push"], check=True)
-            print(f"{GREEN}✅ Fichiers d'état sauvegardés et poussés sur GitHub avec succès.{RESET}")
-        else:
-            print(f"{BLUE}  → Aucun changement dans les fichiers d'état, pas de commit nécessaire.{RESET}")
-    except subprocess.CalledProcessError as e:
-        print(f"{RED}❌ Erreur lors du push GitHub : {e}{RESET}")
-    except Exception as e:
-        print(f"{RED}❌ Erreur inattendue lors de la sauvegarde : {e}{RESET}")
+    print(f"\n{BOLD}{YELLOW}━━━ SAUVEGARDE GITHUB (Désactivée) ━━━{RESET}")
+    pass
 
 
 # ─────────────────────────────────────────────────────────────
@@ -215,8 +185,8 @@ def refresh(seen: dict) -> dict:
     envoie une alerte Discord par nouvelle offre, met à jour le JSON.
     Retourne le dict seen mis à jour.
     """
-    now = datetime.now().strftime("%H:%M:%S")
-    print(f"\n{BOLD}{BLUE}━━━ REFRESH [{now}] ━━━{RESET}")
+    now_time = datetime.now().strftime("%H:%M:%S")
+    print(f"\n{BOLD}{BLUE}━━━ REFRESH [{now_time}] ━━━{RESET}")
 
     raw      = run_all_scrapers()
     filtered = filter_jobs(raw)
@@ -259,51 +229,44 @@ def refresh(seen: dict) -> dict:
 
 
 # ─────────────────────────────────────────────────────────────
-# POINT D'ENTRÉE
+# POINT D'ENTRÉE WEB (RENDER + CRON-JOB)
 # ─────────────────────────────────────────────────────────────
 
-def _test_notification():
-    """Envoie une fausse offre sur Discord pour valider l'embed."""
-    fake_job = {
-        "title":        "Summer Analyst — Global Markets (Equities)",
-        "bank":         "Goldman Sachs",
-        "location":     "New York, NY",
-        "program_type": "Summer Internship",
-        "url":          "https://higher.gs.com/careers/",
-    }
-    print("Envoi d'une notification de test Discord...")
-    ok = send_discord_alert(fake_job)
-    print("✅ Succès !" if ok else "❌ Échec — vérifiez votre DISCORD_WEBHOOK_OFFERS dans config.py")
+app = Flask(__name__)
 
+@app.route('/')
+def home():
+    """Page d'accueil pour indiquer à Render que l'app est en vie."""
+    return "✅ Bank Sniper est en ligne et écoute !"
+
+@app.route('/scan')
+def trigger_scan():
+    """URL appelée par cron-job.org toutes les X minutes."""
+    from storage import load_seen
+    
+    # 1. Charger les offres existantes
+    seen = load_seen()
+    
+    # Si le dictionnaire est vide (premier lancement ou redémarrage du serveur), 
+    # on peut initialiser discrètement ou laisser refresh s'en charger.
+    # Ici, on laisse refresh faire son travail normal.
+    
+    try:
+        # 2. Lancer le scan (la fonction sauvegarde automatiquement le JSON)
+        seen = refresh(seen)
+        
+        return f"Scan terminé avec succès. {len(seen)} offres en base.", 200
+        
+    except Exception as e:
+        print(f"❌ Erreur lors du scan : {e}")
+        return f"Erreur lors du scan : {e}", 500
 
 if __name__ == "__main__":
-    args = sys.argv[1:]
-
-    if "--test-notif" in args:
-        _test_notification()
-        sys.exit(0)
-
-    init_only = "--init-only" in args
-
     print(f"{BOLD}{'━'*50}{RESET}")
-    print(f"{BOLD}  🏦 Bank Sniper — Front Office Internship Alert{RESET}")
+    print(f"{BOLD}  🏦 Bank Sniper — Lancement du Serveur Web{RESET}")
     print(f"{BOLD}{'━'*50}{RESET}")
-    print(f"  Mode : Run Unique (GitHub Actions Cron)")
-    print()
-
-    # Charger la mémoire existante
-    from storage import load_seen
-    seen = load_seen()
-
-    if init_only:
-        seen = initialize()
-        push_seen_to_github()
-        sys.exit(0)
-
-    # Lancement unique
-    try:
-        seen = refresh(seen)
-        push_seen_to_github()
-    except Exception as e:
-        print(f"{RED}❌ Erreur inattendue : {e}{RESET}")
-        sys.exit(1)
+    
+    # Render attribue dynamiquement un port via la variable d'environnement PORT
+    port = int(os.environ.get('PORT', 10000))
+    # Lancement du serveur
+    app.run(host='0.0.0.0', port=port)
