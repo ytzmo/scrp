@@ -247,16 +247,19 @@ def trigger_scan():
     # 1. Charger les offres existantes
     seen = load_seen()
     
-    # Si le dictionnaire est vide (premier lancement ou redémarrage du serveur), 
-    # on peut initialiser discrètement ou laisser refresh s'en charger.
-    # Ici, on laisse refresh faire son travail normal.
-    
     try:
-        # 2. Lancer le scan (la fonction sauvegarde automatiquement le JSON)
-        seen = refresh(seen)
-        
-        return f"Scan terminé avec succès. {len(seen)} offres en base.", 200
-        
+        # 2. Si le dictionnaire est vide (premier lancement ou redémarrage du serveur)
+        # on lance une initialisation silencieuse au lieu du refresh normal.
+        if not seen:
+            print("⚠️ Mémoire vide détectée. Lancement de l'initialisation silencieuse...")
+            seen = initialize()
+            return f"Initialisation silencieuse terminée. {len(seen)} offres stockées.", 200
+            
+        # 3. Sinon, on lance le scan normal (avec notifications Discord)
+        else:
+            seen = refresh(seen)
+            return f"Scan terminé avec succès. {len(seen)} offres en base.", 200
+            
     except Exception as e:
         print(f"❌ Erreur lors du scan : {e}")
         return f"Erreur lors du scan : {e}", 500
