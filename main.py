@@ -1,5 +1,6 @@
 """
-main.py — Orchestrateur principal du Bank Internship Scraper (Version Serveur Web / Render)
+Scraper x-CIB 2026
+
 """
 
 import sys
