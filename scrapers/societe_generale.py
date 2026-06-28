@@ -4,6 +4,8 @@ scrapers/societe_generale.py — Société Générale Career Scraper
 SG utilise un site Algolia-powered (careers.societegenerale.com).
 On passe par Playwright (headless Chromium) pour laisser le JS se charger
 puis on extrait les cartes d'offres directement depuis le DOM rendu.
+Utiliser un proxy sur le vps sinon le scraping ne marchera ps.
+
 """
 
 import random
