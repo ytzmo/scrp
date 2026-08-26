@@ -2063,5 +2063,922 @@
     "location": "Singapore, Singapore",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738437"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182540": {
+    "title": "2027 | Americas | Sao Paulo | FICC and Equities | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Sao Paulo, Sao Paulo, Brazil",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182540"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182548": {
+    "title": "2027 | Americas | Sao Paulo | Global Investment Research | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Sao Paulo, Sao Paulo, Brazil",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182548"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182565": {
+    "title": "2027 | Americas | Sao Paulo | Investment Banking | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Sao Paulo, Sao Paulo, Brazil",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182565"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182635": {
+    "title": "2027 | Japan | Tokyo | Asset Management, Client Solutions Group (Sales)| Summer Analyst",
+    "bank": "Goldman Sachs",
+    "location": "Tokyo, Japan",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182635"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170663": {
+    "title": "2027 | EMEA | The Hague | Asset and Wealth Management Quantitative Strats | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "The Hague, Zuid-Holland, Netherlands",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170663"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747429": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747429"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747423": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Shanghai",
+    "bank": "J.P. Morgan",
+    "location": "Shanghai, China",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747423"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747420": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Seoul",
+    "bank": "J.P. Morgan",
+    "location": "Seoul, Korea, Republic of",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747420"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749758": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Summer Analyst - Shanghai",
+    "bank": "J.P. Morgan",
+    "location": "Shanghai, China",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749758"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749762": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Summer Analyst - Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749762"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747434": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Sales - Taipei",
+    "bank": "J.P. Morgan",
+    "location": "New Taipei City, Taiwan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747434"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747060": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747060"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747399": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Research - Seoul",
+    "bank": "J.P. Morgan",
+    "location": "Seoul, Korea, Republic of",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747399"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747409": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Research - Shanghai",
+    "bank": "J.P. Morgan",
+    "location": "Shanghai, China",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747409"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747413": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Research - Taipei",
+    "bank": "J.P. Morgan",
+    "location": "New Taipei City, Taiwan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747413"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749752": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program – Summer Analyst - Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749752"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747391": {
+    "title": "2027 Commercial & Investment Bank - Markets Summer Analyst Program - Research - Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747391"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766900": {
+    "title": "2027 Commercial & Investment Bank - Markets Program - Research - Summer Analyst - Tokyo",
+    "bank": "J.P. Morgan",
+    "location": "Tokyo-To, Japan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766900"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766907": {
+    "title": "2027 Commercial & Investment Bank - Markets Program - Trading - Summer Analyst - Tokyo",
+    "bank": "J.P. Morgan",
+    "location": "Tokyo-To, Japan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766907"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782978": {
+    "title": "International Private Bank, Analyst - China Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782978"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762542": {
+    "title": "2027 Commercial & Investment Bank Markets Full Time Analyst Program",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762542"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766897": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Program - Summer Analyst - Tokyo",
+    "bank": "J.P. Morgan",
+    "location": "Tokyo-To, Japan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766897"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766905": {
+    "title": "2027 Commercial & Investment Bank - Markets Program - Sales & Marketing - Summer Analyst - Tokyo",
+    "bank": "J.P. Morgan",
+    "location": "Tokyo-To, Japan",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766905"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767368": {
+    "title": "International Private Bank, Analyst for Hong Kong Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767368"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763120": {
+    "title": "2027 Commercial & Investment Bank Markets Full-Time Analyst Program - Research",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763120"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774659": {
+    "title": "2027 China Seasonal Internship Program - Asset Management - Research Analyst",
+    "bank": "J.P. Morgan",
+    "location": "Shanghai, China",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774659"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038": {
+    "title": "2027 Quantitative Research – Markets – Summer Internship - Analyst – United States",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779941": {
+    "title": "International Private Bank, Analyst - China Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779941"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764321": {
+    "title": "International Private Bank, Analyst – Southeast Asia Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764321"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738469": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Brussels",
+    "bank": "J.P. Morgan",
+    "location": "Bruxelles, Bruxelles, Belgium",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738469"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739544": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Stockholm",
+    "bank": "J.P. Morgan",
+    "location": "STOCKHOLM, STOCKHOLM, Sweden",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739544"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741848": {
+    "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Amsterdam",
+    "bank": "J.P. Morgan",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741848"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741915": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship- Paris",
+    "bank": "J.P. Morgan",
+    "location": "Paris, Paris, France",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741915"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742017": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Zurich",
+    "bank": "J.P. Morgan",
+    "location": "Zurich, ZH, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742017"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742043": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Frankfurt",
+    "bank": "J.P. Morgan",
+    "location": "Frankfurt a. Main, Germany",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742043"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741849": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship  - CEE Coverage Warsaw",
+    "bank": "J.P. Morgan",
+    "location": "Warszawa, Mazowieckie, Poland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741849"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741865": {
+    "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - CEE Coverage Frankfurt",
+    "bank": "J.P. Morgan",
+    "location": "Frankfurt a. Main, Germany",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741865"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766280": {
+    "title": "2027 Marketing Leadership Development Program - Summer Analyst Opportunity",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766280"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772651": {
+    "title": "US Equity Research - Small & Mid Cap Internet - Analyst",
+    "bank": "J.P. Morgan",
+    "location": "NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772651"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761734": {
+    "title": "2027 China Seasonal Internship Program - Research & Analytics",
+    "bank": "J.P. Morgan",
+    "location": "China",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761734"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061": {
+    "title": "2027 Quantitative Research – Markets – Summer Internship - Associate– United States",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978": {
+    "title": "2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074": {
+    "title": "2027 Quantitative Research – Asset Management – Summer Internship – Analyst - United States",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757890": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - London",
+    "bank": "J.P. Morgan",
+    "location": "LONDON, LONDON, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757890"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757916": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - Paris",
+    "bank": "J.P. Morgan",
+    "location": "Paris, Paris, France",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757916"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760052": {
+    "title": "2026 Commercial & Investment Banking - Markets - Off-Cycle Internship - Frankfurt",
+    "bank": "J.P. Morgan",
+    "location": "Frankfurt a. Main, Germany",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760052"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761733": {
+    "title": "2026-2027 - Commercial & Investment Bank - Markets Equity Research - Part Time Analyst Internship",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761733"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783632": {
+    "title": "International Payments Sales Specialist - Commercial Bank - Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783632"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697053": {
+    "title": "International Private Bank, UHNW Banker, Australia Market, Vice President- Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697053"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784780": {
+    "title": "International Private Bank, Private Banker, United Arab Emirates, Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784780"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783978": {
+    "title": "International Private Bank, Private Banker for China Market, Associate, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783978"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781355": {
+    "title": "International Private Bank, Professional for China Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781355"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775594": {
+    "title": "International Payment Sales - Commercial Bank - Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Dallas, TX, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775594"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704893": {
+    "title": "International Private Bank, Lending Advisor, Executive Director, SEA Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704893"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets--Part-time-Intern--Tokyo-JPN--2027_26989428": {
+    "title": "Markets, Part-time Intern, Tokyo-JPN, 2027",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets--Part-time-Intern--Tokyo-JPN--2027_26989428"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Part-time-Intern--Tokyo-JPN--2027_26973462": {
+    "title": "Banking - Investment Banking, Part-time Intern, Tokyo-JPN, 2027",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Part-time-Intern--Tokyo-JPN--2027_26973462"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2026_26977986": {
+    "title": "Estágio Exclusivo PCD | Markets, Internship, São Paulo – Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Markets--Internship--So-Paulo---Brazil--2026_26977986"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Business-Management--Internship--So-Paulo---Brazil--2026_26985536": {
+    "title": "Markets – Business Management, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Business-Management--Internship--So-Paulo---Brazil--2026_26985536"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26986138": {
+    "title": "Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26986138"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26988854": {
+    "title": "Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026",
+    "bank": "Citi",
+    "location": "Sao Paulo Sao Paulo Brazil",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26988854"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Investment-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982662": {
+    "title": "Investment Banking - Summer Internship Program, Tokyo - Japan, 2027",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Investment-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982662"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets---Summer-Internship-Program--Boston-Career-Forum-in-2026--Tokyo---Japan--2027_26976914": {
+    "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
+    "bank": "Citi",
+    "location": "Chiyoda-ku Tokyo Japan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Markets---Summer-Internship-Program--Boston-Career-Forum-in-2026--Tokyo---Japan--2027_26976914"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Markets---Sales-and-Trading--Summer-Analyst--Hong-Kong---2027_26978275": {
+    "title": "Markets – Sales and Trading, Summer Analyst, Hong Kong - 2027",
+    "bank": "Citi",
+    "location": "Hong Kong  Hong Kong",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Markets---Sales-and-Trading--Summer-Analyst--Hong-Kong---2027_26978275"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Markets---Sales-and-Trading--Summer-Analyst--Singapore---2027_26978287": {
+    "title": "Markets – Sales and Trading, Summer Analyst, Singapore - 2027",
+    "bank": "Citi",
+    "location": "Singapore  Singapore",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Markets---Sales-and-Trading--Summer-Analyst--Singapore---2027_26978287"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Banking---Investment-Banking--Summer-Analyst--Singapore---APAC--2027_26984373": {
+    "title": "Banking - Investment Banking, Summer Analyst, Singapore – APAC, 2027",
+    "bank": "Citi",
+    "location": "Singapore  Singapore",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Banking---Investment-Banking--Summer-Analyst--Singapore---APAC--2027_26984373"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Banking---Capital-Markets--Summer-Analyst--Hong-Kong---APAC--2027_26984751": {
+    "title": "Banking - Capital Markets, Summer Analyst, Hong Kong – APAC, 2027",
+    "bank": "Citi",
+    "location": "Hong Kong  Hong Kong",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Banking---Capital-Markets--Summer-Analyst--Hong-Kong---APAC--2027_26984751"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Banking---Investment-Banking--Summer-Analyst--Hong-Kong---APAC--2027_26984799": {
+    "title": "Banking - Investment Banking, Summer Analyst, Hong Kong – APAC, 2027",
+    "bank": "Citi",
+    "location": "Hong Kong  Hong Kong",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Banking---Investment-Banking--Summer-Analyst--Hong-Kong---APAC--2027_26984799"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/Banking---Investment-Banking--Summer-Analyst--Taiwan---APAC--2027_26985504": {
+    "title": "Banking - Investment Banking, Summer Analyst, Taiwan – APAC, 2027",
+    "bank": "Citi",
+    "location": "Taipei Taipei City Taiwan",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/Banking---Investment-Banking--Summer-Analyst--Taiwan---APAC--2027_26985504"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Capital-Markets-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124472-1": {
+    "title": "Capital Markets Off Cycle Internship Programme 2027 Frankfurt",
+    "bank": "Barclays",
+    "location": "Frankfurt, Taunus Turm",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Capital-Markets-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124472-1"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Capital-Markets-Summer-Internship-Programme-2027-London_JR-0000123983": {
+    "title": "Capital Markets Summer Internship Programme 2027 London",
+    "bank": "Barclays",
+    "location": "Canary Wharf, 1 Churchill Place",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Capital-Markets-Summer-Internship-Programme-2027-London_JR-0000123983"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Graduate-Programme-2027-Singapore_JR-0000128135": {
+    "title": "Investment Banking Graduate Programme 2027 Singapore",
+    "bank": "Barclays",
+    "location": "Singapore, Marina Bay Financial Tower 2",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Graduate-Programme-2027-Singapore_JR-0000128135"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099": {
+    "title": "Quantitative Finance Associate Summer Internship Program 2027 New York",
+    "bank": "Barclays",
+    "location": "New York, 745 7th Avenue",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Graduate-Programme-2027-Hong-Kong_JR-0000128133": {
+    "title": "Sales, Trading and Structuring Graduate Programme 2027 Hong Kong",
+    "bank": "Barclays",
+    "location": "Hong Kong, Cheung Kong Center",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Graduate-Programme-2027-Hong-Kong_JR-0000128133"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Graduate-Programme-2027-Singapore_JR-0000128131": {
+    "title": "Sales, Trading and Structuring Graduate Programme 2027 Singapore",
+    "bank": "Barclays",
+    "location": "Singapore, Marina Bay Financial Tower 2",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Graduate-Programme-2027-Singapore_JR-0000128131"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Investment-Banking-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117558": {
+    "title": "Investment Banking Summer Internship Programme 2027 Hong Kong",
+    "bank": "Barclays",
+    "location": "Hong Kong, Cheung Kong Center",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Investment-Banking-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117558"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Summer-Internship-Programme-2027-Singapore_JR-0000117560": {
+    "title": "Investment Banking Summer Internship Programme 2027 Singapore",
+    "bank": "Barclays",
+    "location": "Singapore, Marina Bay Financial Tower 2",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Investment-Banking-Summer-Internship-Programme-2027-Singapore_JR-0000117560"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610": {
+    "title": "Research Analyst Summer Internship Programme 2027 Singapore",
+    "bank": "Barclays",
+    "location": "Singapore, Marina Bay Financial Tower 2",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559": {
+    "title": "Sales, Trading and Structuring Summer Internship Programme 2027 Hong Kong",
+    "bank": "Barclays",
+    "location": "Hong Kong, Cheung Kong Center",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117559"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562": {
+    "title": "Sales, Trading and Structuring Summer Internship Programme 2027 Singapore",
+    "bank": "Barclays",
+    "location": "Singapore, Marina Bay Financial Tower 2",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Sales--Trading-and-Structuring-Summer-Internship-Programme-2027-Singapore_JR-0000117562"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566": {
+    "title": "Electronic Trading Associate Summer Internship Programme 2027 Hong Kong",
+    "bank": "Barclays",
+    "location": "Hong Kong, Cheung Kong Center",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Electronic-Trading-Associate-Summer-Internship-Programme-2027-Hong-Kong_JR-0000117566"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612090839": {
+    "title": "Sales and Distribution Intern - Apprentice (12 months)",
+    "bank": "HSBC",
+    "location": "Chennai, Tamil Nadu, India",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612090839"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612053238": {
+    "title": "Student Internship Programme 1H2027 - Global Markets - Hang Seng Bank (HK)",
+    "bank": "HSBC",
+    "location": "Central, Hong Kong Island, Hong Kong",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612053238"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612163139": {
+    "title": "Analyst, International Mid-Markets (IMM)",
+    "bank": "HSBC",
+    "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612163139"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-banking-internship": {
+    "title": "Investment Banking Internship",
+    "bank": "BNP Paribas",
+    "location": "Stockholm, Comté de Stockholm, Suède",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-banking-internship"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/credit-risk-regulatory-reporting-trainee": {
+    "title": "Credit Risk Regulatory Reporting Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/credit-risk-regulatory-reporting-trainee"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-coverage-global-banking": {
+    "title": "London - 2027 - Summer Internship - Coverage - Global Banking",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-coverage-global-banking"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-global-markets": {
+    "title": "London - 2027 Summer Internship - Global Markets",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-global-markets"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-capital-markets-global-banking": {
+    "title": "London - 2027 Summer Internship - Capital Markets -Global Banking",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-capital-markets-global-banking"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-m-a-global-banking": {
+    "title": "London - 2027 Summer Internship - M&A - Global Banking",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-2027-summer-internship-m-a-global-banking"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-products-marketing-trainee-italian-speaker-1": {
+    "title": "Investment Products Marketing Trainee – Italian Speaker",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-products-marketing-trainee-italian-speaker-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-products-marketing-trainee-italian-speaker": {
+    "title": "Investment Products Marketing Trainee – Italian Speaker",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-products-marketing-trainee-italian-speaker"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-jan-jun-global-markets-singapore": {
+    "title": "2027 APAC Long Internship Programme  (Jan-Jun) – Global Markets – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-jan-jun-global-markets-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-markets-hong-kong": {
+    "title": "2027 APAC Long Internship Programme (Jan-Jun) – Global Markets – Hong Kong",
+    "bank": "BNP Paribas",
+    "location": "Hong Kong, Hong Kong",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-markets-hong-kong"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-banking-apac-hong-kong": {
+    "title": "2027 APAC Long Internship (Jan - Jun) – Global Banking APAC – Hong Kong",
+    "bank": "BNP Paribas",
+    "location": "Hong Kong, Hong Kong",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-banking-apac-hong-kong"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-banking-apac-singapore": {
+    "title": "2027 APAC Long Internship (Jan - Jun) – Global Banking APAC – Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-jan-jun-global-banking-apac-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/structured-product-trainee-uk-market-1": {
+    "title": "Structured Product Trainee – UK Market",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/structured-product-trainee-uk-market-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/structured-product-trainee-uk-market": {
+    "title": "Structured Product Trainee – UK Market",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/structured-product-trainee-uk-market"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/trainee-fixed-income-analyst": {
+    "title": "Trainee Fixed Income Analyst",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/trainee-fixed-income-analyst"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/trainee-fixed-income-analyst-1": {
+    "title": "Trainee Fixed Income Analyst",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/trainee-fixed-income-analyst-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-banking-traineee-m-a-advisory": {
+    "title": "Investment Banking Traineee - M&A Advisory",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/investment-banking-traineee-m-a-advisory"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/financial-international-markets-trainee": {
+    "title": "Financial & International Markets Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/financial-international-markets-trainee"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-trading-assistant-structured-derivatives-us-internship-1": {
+    "title": "Sales & Trading Assistant -  Structured Derivatives US - Internship",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-trading-assistant-structured-derivatives-us-internship-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-trading-assistant-structured-derivatives-us-internship": {
+    "title": "Sales & Trading Assistant -  Structured Derivatives US - Internship",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/sales-trading-assistant-structured-derivatives-us-internship"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-4": {
+    "title": "Corporate Credit Analyst Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-4"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-sales-produits-structures-privalto-h-f-6-mois": {
+    "title": "Stage - Assistant Sales - Produits Structurés - Privalto H/F - 6 mois",
+    "bank": "BNP Paribas",
+    "location": "Paris, Île-de-France, France",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/stage-assistant-sales-produits-structures-privalto-h-f-6-mois"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-advisory-research-research-internship-cash-equities": {
+    "title": "BNP Paribas Corporate & Institutional Banking – Advisory Research – Research internship  (Cash Equities)",
+    "bank": "BNP Paribas",
+    "location": "Milan, Lombardie, Italie",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-advisory-research-research-internship-cash-equities"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-advisory-research-research-internship-cash-equities-1": {
+    "title": "BNP Paribas Corporate & Institutional Banking – Advisory Research – Research internship  (Cash Equities)",
+    "bank": "BNP Paribas",
+    "location": "Milan, Lombardie, Italie",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-advisory-research-research-internship-cash-equities-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/intern-all-genders-investment-banking-m-a-european-advisory-group-q3-2027": {
+    "title": "Intern (all genders) Investment Banking – M&A (European Advisory Group) - Q3 2027",
+    "bank": "BNP Paribas",
+    "location": "Francfort, Hesse, Allemagne",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/intern-all-genders-investment-banking-m-a-european-advisory-group-q3-2027"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-global-markets-equity-derivatives-sales-internship": {
+    "title": "BNP Paribas Corporate & Institutional Banking – Global Markets - Equity Derivatives Sales - Internship",
+    "bank": "BNP Paribas",
+    "location": "Milan, Lombardie, Italie",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/bnp-paribas-corporate-institutional-banking-global-markets-equity-derivatives-sales-internship"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-2": {
+    "title": "Corporate Credit Analyst Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-2"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-summer-associate-global-markets-quantitative-research-trading": {
+    "title": "2027 – Summer Associate Internship - Global Markets, Quantitative Research & Trading",
+    "bank": "BNP Paribas",
+    "location": "New York, État de New York, États-Unis",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-summer-associate-global-markets-quantitative-research-trading"
+  },
+  "https://careers.societegenerale.com/en/job-offers/credit-analyst-intern-26000ICK-en": {
+    "title": "Credit Analyst Intern",
+    "bank": "Société Générale",
+    "location": "Télétravail possible",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/credit-analyst-intern-26000ICK-en"
+  },
+  "https://careers.societegenerale.com/en/job-offers/sales-intern-26000IY3-en": {
+    "title": "Sales Intern",
+    "bank": "Société Générale",
+    "location": "Sao Paulo, Brésil",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/sales-intern-26000IY3-en"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-4-assistante-sales--origination-international-trade-and-transaction-banking---large-french-clients-hf-reference--2026-114122--/": {
+    "title": "Assistant(e) Sales – Origination International Trade and Transaction Banking - Large French Clients H/F",
+    "bank": "Crédit Agricole",
+    "location": "Montrouge - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-4-assistante-sales--origination-international-trade-and-transaction-banking---large-french-clients-hf-reference--2026-114122--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-4-quantitative-analyst-intern---reference--2026-114965--/": {
+    "title": "Quantitative Analyst Intern",
+    "bank": "Crédit Agricole",
+    "location": "London - Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-4-quantitative-analyst-intern---reference--2026-114965--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/577-170468-138-responsable-content-marketing-crm-et-conversion-international-hf-reference--2026-115094--/": {
+    "title": "Responsable Content Marketing, CRM & Conversion International H/F",
+    "bank": "Crédit Agricole",
+    "location": "Massy - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/577-170468-138-responsable-content-marketing-crm-et-conversion-international-hf-reference--2026-115094--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/577-170468-138-responsable-acquisition-digitale-et-growth-marketing-international-hf-reference--2026-115089--/": {
+    "title": "Responsable Acquisition Digitale & Growth Marketing International H/F",
+    "bank": "Crédit Agricole",
+    "location": "Massy - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/577-170468-138-responsable-acquisition-digitale-et-growth-marketing-international-hf-reference--2026-115089--/"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Global-Market-Referential--internship_R28402": {
+    "title": "Borsa Italiana - Global Market Referential, internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Global-Market-Referential--internship_R28402"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Listing-Sales-Analyst---Mid---Small-Caps-Internship_R28302-1": {
+    "title": "Borsa Italiana - Listing Sales Analyst - Mid & Small Caps Internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Listing-Sales-Analyst---Mid---Small-Caps-Internship_R28302-1"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Surveillance--Internship_R28288": {
+    "title": "Borsa Italiana - Market Surveillance, Internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Surveillance--Internship_R28288"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-surveillance--internship_R28284": {
+    "title": "Borsa Italiana - Market surveillance, internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-surveillance--internship_R28284"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Euronext-Securities---Sales---Marketing-support-Internship_R28197": {
+    "title": "Euronext Securities - Sales & Marketing support Internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Euronext-Securities---Sales---Marketing-support-Internship_R28197"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Rome---via-Tomacelli/Euronext-Clearing---Market-risk-internship_R28183": {
+    "title": "Euronext Clearing - Market risk internship",
+    "bank": "Euronext",
+    "location": "Rome - via Tomacelli",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Rome---via-Tomacelli/Euronext-Clearing---Market-risk-internship_R28183"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Rome---via-Tomacelli/Euronext-Clearing---Market-Risk---LOD2--intern_R28182": {
+    "title": "Euronext Clearing - Market Risk - LOD2, intern",
+    "bank": "Euronext",
+    "location": "Rome - via Tomacelli",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Rome---via-Tomacelli/Euronext-Clearing---Market-Risk---LOD2--intern_R28182"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Access--internship_R28178": {
+    "title": "Borsa Italiana - Market Access, internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Access--internship_R28178"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Regulation-and-Post-Trading-internship_R27753-1": {
+    "title": "Borsa Italiana - Regulation and Post Trading internship",
+    "bank": "Euronext",
+    "location": "Milan",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Regulation-and-Post-Trading-internship_R27753-1"
+  },
+  "https://recrutement.natixis.com/en/job/intern-marketing-communications-4-6months-2": {
+    "title": "Intern - Marketing &amp; Communications (4 - 6months)",
+    "bank": "Natixis",
+    "location": "London",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/intern-marketing-communications-4-6months-2"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-restructuring-and-banking-law-f-h": {
+    "title": "Internship - 6 months - Restructuring and Banking Law F/H",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-restructuring-and-banking-law-f-h"
+  },
+  "https://recrutement.natixis.com/en/job/intern-quantitative-research-fixed-income-and-credit-12-months": {
+    "title": "Intern - Quantitative Research, Fixed Income and Credit (12 months)",
+    "bank": "Natixis",
+    "location": "London",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-fixed-income-and-credit-12-months"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-research-vote-esg-engagement-f-m": {
+    "title": "Internship - 6 months - Research Vote ESG Engagement F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-research-vote-esg-engagement-f-m"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-portfolio-analyst-energy-transition-emerging-markets-f-w": {
+    "title": "Internship - 6 months - Portfolio Analyst Energy Transition Emerging Markets F/W",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-portfolio-analyst-energy-transition-emerging-markets-f-w"
   }
 }
