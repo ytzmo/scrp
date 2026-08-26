@@ -1,6 +1,5 @@
 """
-Scraper x-CIB 2026
-
+Scraper x-CIB 2026 - Mode GitHub Actions
 """
 
 import sys
@@ -9,11 +8,10 @@ import subprocess
 import random
 import os
 from datetime import datetime
-from flask import Flask
 
 from config import PROGRAM_KEYWORDS, DEPT_KEYWORDS, EXCLUDE_KEYWORDS, SEEN_FILE, LAST_REPORT_FILE
 from notifier import send_discord_alert, send_health_report, send_status_report
-from storage import save_seen, count_seen
+from storage import save_seen, count_seen, load_seen
 
 # Import de tous les scrapers
 from scrapers import goldman_sachs, jpmorgan, morgan_stanley, bofa, citi
@@ -134,18 +132,6 @@ def initialize() -> dict:
 
 
 # ─────────────────────────────────────────────────────────────
-# COMMIT GITHUB ACTIONS (Désactivé pour Render, gardé en archive)
-# ─────────────────────────────────────────────────────────────
-def push_seen_to_github():
-    """
-    Commit et push le fichier offres_existantes.json sur GitHub.
-    Désactivé par défaut sur Render car le disque local garde la mémoire.
-    """
-    print(f"\n{BOLD}{YELLOW}━━━ SAUVEGARDE GITHUB (Désactivée) ━━━{RESET}")
-    pass
-
-
-# ─────────────────────────────────────────────────────────────
 # RAPPORT 3H
 # ─────────────────────────────────────────────────────────────
 
@@ -154,9 +140,6 @@ def check_and_send_3h_report(seen_count: int):
     Vérifie le dernier envoi du rapport 3h dans last_report.txt.
     Si > 3 heures se sont écoulées, envoie le rapport et met à jour le fichier.
     """
-    import os
-    import time
-    
     now = time.time()
     last_sent = 0.0
     
@@ -230,47 +213,27 @@ def refresh(seen: dict) -> dict:
 
 
 # ─────────────────────────────────────────────────────────────
-# POINT D'ENTRÉE WEB (RENDER + CRON-JOB)
+# POINT D'ENTRÉE GITHUB ACTIONS
 # ─────────────────────────────────────────────────────────────
 
-app = Flask(__name__)
-
-@app.route('/')
-def home():
-    """Page d'accueil pour indiquer à Render que l'app est en vie."""
-    return "✅ Bank Sniper est en ligne et écoute !"
-
-@app.route('/scan')
-def trigger_scan():
-    """URL appelée par cron-job.org toutes les X minutes."""
-    from storage import load_seen
-    
-    # 1. Charger les offres existantes
-    seen = load_seen()
+if __name__ == "__main__":
+    print(f"{BOLD}{'━'*50}{RESET}")
+    print(f"{BOLD}  🏦 Bank Sniper — Mode GitHub Actions{RESET}")
+    print(f"{BOLD}{'━'*50}{RESET}")
     
     try:
-        # 2. Si le dictionnaire est vide (premier lancement ou redémarrage du serveur)
-        # on lance une initialisation silencieuse au lieu du refresh normal.
+        # 1. Charger les offres existantes
+        seen = load_seen()
+        
+        # 2. Si le dictionnaire est vide (premier lancement sur une nouvelle machine)
         if not seen:
             print("⚠️ Mémoire vide détectée. Lancement de l'initialisation silencieuse...")
             seen = initialize()
-            return f"Initialisation silencieuse terminée. {len(seen)} offres stockées.", 200
             
         # 3. Sinon, on lance le scan normal (avec notifications Discord)
         else:
             seen = refresh(seen)
-            return f"Scan terminé avec succès. {len(seen)} offres en base.", 200
             
     except Exception as e:
-        print(f"❌ Erreur lors du scan : {e}")
-        return f"Erreur lors du scan : {e}", 500
-
-if __name__ == "__main__":
-    print(f"{BOLD}{'━'*50}{RESET}")
-    print(f"{BOLD}  🏦 Bank Sniper — Lancement du Serveur Web{RESET}")
-    print(f"{BOLD}{'━'*50}{RESET}")
-    
-    # Render attribue dynamiquement un port via la variable d'environnement PORT
-    port = int(os.environ.get('PORT', 10000))
-    # Lancement du serveur
-    app.run(host='0.0.0.0', port=port)
+        print(f"❌ Erreur critique lors de l'exécution : {e}")
+        sys.exit(1) # Important : signale à GitHub Actions qu'il y a eu une erreur
