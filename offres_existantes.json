@@ -3211,5 +3211,12 @@
     "location": "New York, NY, United States",
     "program_type": "Campus",
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/181924"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785465": {
+    "title": "Branch Manager Trainee - Northern, AZ Market",
+    "bank": "J.P. Morgan",
+    "location": "Prescott, AZ, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785465"
   }
 }
