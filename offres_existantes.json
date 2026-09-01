@@ -3400,5 +3400,26 @@
     "location": "LONDON, LONDON, United Kingdom",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780537": {
+    "title": "2027 – Sales – Summer Internship - Paris",
+    "bank": "J.P. Morgan",
+    "location": "Paris, Paris, France",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780537"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Stockholm-Katthavet/Capital-Markets-Off-Cycle-Internship-Programme-2027-Stockholm_JR-0000124627": {
+    "title": "Capital Markets Off Cycle Internship Programme 2027 Stockholm",
+    "bank": "Barclays",
+    "location": "Stockholm, Katthavet",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Stockholm-Katthavet/Capital-Markets-Off-Cycle-Internship-Programme-2027-Stockholm_JR-0000124627"
+  },
+  "https://careers.societegenerale.com/offres-d-emploi/stage-assistante-client-marketing-h-f-26000J5R-fr": {
+    "title": "Stage Assistant(e) Client Marketing - H/F",
+    "bank": "Société Générale",
+    "location": "Luxembourg, Luxembourg",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/offres-d-emploi/stage-assistante-client-marketing-h-f-26000J5R-fr"
   }
 }
