@@ -3617,5 +3617,33 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-green-sustainable-debt-market-syndicate-f-w"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721813": {
+    "title": "International Private Bank, Private Banker, Executive Director, CEE Market",
+    "bank": "J.P. Morgan",
+    "location": "Luxembourg, Luxembourg, Luxembourg",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721813"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Placement-Analyst-Internship--Paris---France-2027_26992441": {
+    "title": "Banking, Investment Banking, Placement Analyst Internship, Paris - France 2027",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Placement-Analyst-Internship--Paris---France-2027_26992441"
+  },
+  "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470": {
+    "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
+    "bank": "Citi",
+    "location": "Paris  France",
+    "program_type": "",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470"
+  },
+  "https://careers.societegenerale.com/en/job-offers/intern-structured-products-sales-assistant-marketing-m-f-d-26000JHT-en": {
+    "title": "Intern Structured Products - Sales Assistant / Marketing - M/F/D",
+    "bank": "Société Générale",
+    "location": "Francfort-sur-le-Main, Hesse, Allemagne",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/intern-structured-products-sales-assistant-marketing-m-f-d-26000JHT-en"
   }
 }
