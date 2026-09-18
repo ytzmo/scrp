@@ -4191,5 +4191,12 @@
     "location": "Frankfurt, Hessen, Germany",
     "program_type": "Campus",
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/184906"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792446": {
+    "title": "International Private Bank, Private Banker, United Arab Emirates, Vice President",
+    "bank": "J.P. Morgan",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792446"
   }
 }
