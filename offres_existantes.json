@@ -4233,5 +4233,12 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-assistant-credit-risk-analyst-f-h"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792070": {
+    "title": "2027 Forest Economics and Research Internship – Emerging Talent Summer Experience Program",
+    "bank": "J.P. Morgan",
+    "location": "Portland, OR, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792070"
   }
 }
