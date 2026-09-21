@@ -4219,5 +4219,19 @@
     "location": "Ha Noi, -, Viet Nam",
     "program_type": "ATS",
     "url": "https://portal.careers.hsbc.com/careers/job/563774612226069"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791600": {
+    "title": "International Private Bank, Private Banker, Israel Market - London",
+    "bank": "J.P. Morgan",
+    "location": "LONDON, LONDON, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791600"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-assistant-credit-risk-analyst-f-h": {
+    "title": "Internship - 6 months - Assistant Credit Risk Analyst F/H",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-assistant-credit-risk-analyst-f-h"
   }
 }
