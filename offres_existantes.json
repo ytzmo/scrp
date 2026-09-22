@@ -4261,5 +4261,19 @@
     "location": "LONDON, LONDON, United Kingdom",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775719"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/etf-trading-internship-automated-market-making": {
+    "title": "ETF Trading Internship - Automated Market Making",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/etf-trading-internship-automated-market-making"
+  },
+  "https://careers.societegenerale.com/en/job-offers/intern-junior-sales-analyst-26000KLI-en": {
+    "title": "Intern Junior Sales Analyst",
+    "bank": "Société Générale",
+    "location": "Zurich, Suisse",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/intern-junior-sales-analyst-26000KLI-en"
   }
 }
