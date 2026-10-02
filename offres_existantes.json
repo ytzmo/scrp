@@ -4590,5 +4590,40 @@
     "location": "Hong Kong",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/intern-ai-focused-at-credit-trading-desk-apac-6-months-2"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/185927": {
+    "title": "2027 | APEJ | Seoul | Global Investment Research | Seasonal / Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Seoul, Seoul, Korea, Republic of",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/185927"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Capital-Markets-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124479": {
+    "title": "Capital Markets Off Cycle Internship Programme 2027 Paris",
+    "bank": "Barclays",
+    "location": "Paris, Origami",
+    "program_type": "",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Capital-Markets-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124479"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/ets-derivatives-trading-intern": {
+    "title": "ETS Derivatives & Trading Intern",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/ets-derivatives-trading-intern"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-122-stage---chargee-d-etude-marketing-et-communication-hf-reference--2026-116106--/": {
+    "title": "Stage - Chargé(e) d'étude marketing et communication H/F",
+    "bank": "Crédit Agricole",
+    "location": "Montrouge - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-122-stage---chargee-d-etude-marketing-et-communication-hf-reference--2026-116106--/"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-quantitative-analyst-f-m": {
+    "title": "Internship - 6 months -Quantitative Analyst F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-quantitative-analyst-f-m"
   }
 }
