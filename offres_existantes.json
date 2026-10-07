@@ -4807,5 +4807,40 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-fixed-income-financial-analyst-f-m"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798393": {
+    "title": "International Private Bank - Investment Professional for Hong Kong Market",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798393"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798416": {
+    "title": "International Private Banker, Private Banker, Saudi Market, London, Associate",
+    "bank": "J.P. Morgan",
+    "location": "LONDON, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798416"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788771": {
+    "title": "International Private Bank, UHNW Client Advisor for SEA market, Executive Director, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788771"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-3": {
+    "title": "Corporate Credit Analyst Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/corporate-credit-analyst-trainee-3"
+  },
+  "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity-Listing-Intern_R29101": {
+    "title": "Equity Listing Intern",
+    "bank": "Euronext",
+    "location": "Paris",
+    "program_type": "",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity-Listing-Intern_R29101"
   }
 }
