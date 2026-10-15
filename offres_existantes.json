@@ -5171,5 +5171,40 @@
     "location": "Genève, Suisse",
     "program_type": "Stage / Internship",
     "url": "https://careers.societegenerale.com/en/job-offers/intern-junior-sales-analyst-26000L1H-en"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/private-debt-financing-trainee": {
+    "title": "Private Debt Financing Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/private-debt-financing-trainee"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/credit-data-trainee-1": {
+    "title": "Credit Data Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/credit-data-trainee-1"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2026-global-markets-intern-for-risk-and-resource-platform": {
+    "title": "London - Long Term Internship 2026 - Global Markets Intern for Risk and Resource Platform",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2026-global-markets-intern-for-risk-and-resource-platform"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-3-stage--assistant-sales-salle-des-marches-hf-reference--2026-116533--/": {
+    "title": "STAGE – Assistant Sales Salle des Marchés H/F",
+    "bank": "Crédit Agricole",
+    "location": "19 BOULEVARD DES ITALIENS 75002 PARIS - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-3-stage--assistant-sales-salle-des-marches-hf-reference--2026-116533--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-3-stage--assistant-sales-derives-de-taux-et-change-et-placements-structures-hf-reference--2026-116531--/": {
+    "title": "STAGE – Assistant Sales Dérivés de Taux et Change & Placements structurés H/F",
+    "bank": "Crédit Agricole",
+    "location": "19 Boulevard des Italiens 75002 Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-3-stage--assistant-sales-derives-de-taux-et-change-et-placements-structures-hf-reference--2026-116531--/"
   }
 }
