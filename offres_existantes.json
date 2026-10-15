@@ -5150,5 +5150,26 @@
     "location": "Paris - France",
     "program_type": "Stage / Internship",
     "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170465-124-stage---assistant-operations-en-private-equity-hf-reference--2026-116504--/"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615": {
+    "title": "2027 AI Research Associate Program - Internship",
+    "bank": "J.P. Morgan",
+    "location": "LONDON, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612467413": {
+    "title": "Investment Banking Intern",
+    "bank": "HSBC",
+    "location": "Istanbul, Istanbul, Turkiye",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612467413"
+  },
+  "https://careers.societegenerale.com/en/job-offers/intern-junior-sales-analyst-26000L1H-en": {
+    "title": "Intern Junior Sales Analyst",
+    "bank": "Société Générale",
+    "location": "Genève, Suisse",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/intern-junior-sales-analyst-26000L1H-en"
   }
 }
