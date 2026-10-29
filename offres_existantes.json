@@ -5542,5 +5542,40 @@
     "location": "Singapore",
     "program_type": "Campus",
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170600"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612554041": {
+    "title": "Stage Business Management Macro-Trading - COO Office (f/m/d)",
+    "bank": "HSBC",
+    "location": "PARIS, Paris, France",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612554041"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-124-stage---analyste-multigestion-private-equity-hf-reference--2026-116979--/": {
+    "title": "Stage - Analyste Multigestion Private Equity H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170466-124-stage---analyste-multigestion-private-equity-hf-reference--2026-116979--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-124-stage--marketing--communication-visuelle--education-financiere-epargne-salariale-et-retraite-hf-reference--2026-116977--/": {
+    "title": "Stage – Marketing / Communication visuelle / Education financière Epargne Salariale et Retraite H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-124-stage--marketing--communication-visuelle--education-financiere-epargne-salariale-et-retraite-hf-reference--2026-116977--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-124-stage---activation-des-ventes-sales-engagement-and-coordination-hf-reference--2026-116973--/": {
+    "title": "Stage - Activation des ventes (sales engagement and coordination) H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170478-124-stage---activation-des-ventes-sales-engagement-and-coordination-hf-reference--2026-116973--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170479-124-stage---assistant-trading-agreement-facilitation-hf-reference--2026-116970--/": {
+    "title": "Stage - Assistant Trading Agreement Facilitation H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris  - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170479-124-stage---assistant-trading-agreement-facilitation-hf-reference--2026-116970--/"
   }
 }
