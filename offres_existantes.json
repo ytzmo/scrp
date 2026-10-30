@@ -5584,5 +5584,19 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-quantitative-analyst-private-multi-asset-f-m"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612563585": {
+    "title": "Stage - FICC Quantitative Research (f/m/d)",
+    "bank": "HSBC",
+    "location": "PARIS, Paris, France",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612563585"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2027-global-markets-intern": {
+    "title": "London – Long Term Internship 2027 - Global Markets Intern",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2027-global-markets-intern"
   }
 }
