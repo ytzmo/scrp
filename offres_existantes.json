@@ -5626,5 +5626,19 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-rates-strategist-assistant-f-m"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751181": {
+    "title": "International Private Bank, Private Banker, Turkey Market, Geneva",
+    "bank": "J.P. Morgan",
+    "location": "Geneve, GE, Switzerland",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751181"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758480": {
+    "title": "International Payments Sales Specialist - Commercial Bank - Executive Director",
+    "bank": "J.P. Morgan",
+    "location": "Chicago, IL, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758480"
   }
 }
