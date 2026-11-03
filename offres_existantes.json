@@ -5787,5 +5787,33 @@
     "location": "Séoul, Séoul, Corée du Sud",
     "program_type": "Stage / Internship",
     "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/sec-global-markets-institutional-sales-eqd-6m-intern-1"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612226221": {
+    "title": "Internship, International Mid Market",
+    "bank": "HSBC",
+    "location": "Ho Chi Minh, -, Viet Nam",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612226221"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612563704": {
+    "title": "Stage - Flow Rates Euro Trading (f/m/d)",
+    "bank": "HSBC",
+    "location": "PARIS, Paris, France",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612563704"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-quants-xva-development-of-quantitative-tools-and-smart-assistants-f-m": {
+    "title": "Internship - 6 months - Quants XVA Development of quantitative tools and smart assistants F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-quants-xva-development-of-quantitative-tools-and-smart-assistants-f-m"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-xva-quants-pl-explain-f-m": {
+    "title": "Internship - 6 months - Xva Quants P&amp;L Explain F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-xva-quants-pl-explain-f-m"
   }
 }
