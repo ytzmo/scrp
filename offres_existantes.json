@@ -5815,5 +5815,12 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-xva-quants-pl-explain-f-m"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/transaction-banking-intern-sales-team": {
+    "title": "Transaction Banking Intern - Sales Team",
+    "bank": "BNP Paribas",
+    "location": "Montréal, Québec, Canada",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/transaction-banking-intern-sales-team"
   }
 }
