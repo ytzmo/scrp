@@ -5927,5 +5927,33 @@
     "location": "Central and Western, Hong Kong Island, Hong Kong",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742530"
+  },
+  "https://careers.societegenerale.com/en/job-offers/stage-pfe-initial-margin-equities-python-26000NJX-en": {
+    "title": "Stage PFE – Initial Margin & Equities (Python)",
+    "bank": "Société Générale",
+    "location": "Casablanca, Région de Casablanca-Settat, Maroc",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/stage-pfe-initial-margin-equities-python-26000NJX-en"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170464-136-stage---fx-sales-assistant-front-office-hf-reference--2026-117328--/": {
+    "title": "STAGE - FX Sales Assistant (Front Office) H/F",
+    "bank": "Crédit Agricole",
+    "location": "Luxembourg - Luxembourg",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170464-136-stage---fx-sales-assistant-front-office-hf-reference--2026-117328--/"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-secm-structuring-f-m": {
+    "title": "Internship - 6 months - SECM Structuring - F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-secm-structuring-f-m"
+  },
+  "https://recrutement.natixis.com/en/job/intern-spg-sales-2": {
+    "title": "Intern - SPG Sales",
+    "bank": "Natixis",
+    "location": "London",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/intern-spg-sales-2"
   }
 }
