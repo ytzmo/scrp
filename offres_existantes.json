@@ -5955,5 +5955,26 @@
     "location": "London",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/intern-spg-sales-2"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715482": {
+    "title": "International Private Bank, Private Banker for Hong Kong Market, Vice President, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715482"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763334": {
+    "title": "International Private Bank, Engage Investment Specialist for China Market, Vice President, based in Hong Kong",
+    "bank": "J.P. Morgan",
+    "location": "Central and Western, Hong Kong Island, Hong Kong",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763334"
+  },
+  "https://recrutement.natixis.com/en/job/2027-summer-internship-program-global-markets-sales-trading-and-financial-engineering-2": {
+    "title": "2027 Summer Internship Program – Global Markets: Sales, Trading and Financial Engineering",
+    "bank": "Natixis",
+    "location": "",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/2027-summer-internship-program-global-markets-sales-trading-and-financial-engineering-2"
   }
 }
