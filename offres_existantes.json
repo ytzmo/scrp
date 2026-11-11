@@ -6004,5 +6004,26 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-stress-testes-quantitative-analyst-f-m"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808687": {
+    "title": "International Private Bank, Private Banker, United Arab Emirates, Senior Associate",
+    "bank": "J.P. Morgan",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808687"
+  },
+  "https://portal.careers.hsbc.com/careers/job/563774612626072": {
+    "title": "Graduate - Marketing",
+    "bank": "HSBC",
+    "location": "London, United Kingdom",
+    "program_type": "ATS",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612626072"
+  },
+  "https://recrutement.natixis.com/en/job/2027-summer-internship-program-global-markets-sales-trading-and-financial-engineering": {
+    "title": "2027 Summer Internship Program – Global Markets: Sales, Trading and Financial Engineering",
+    "bank": "Natixis",
+    "location": "",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/2027-summer-internship-program-global-markets-sales-trading-and-financial-engineering"
   }
 }
