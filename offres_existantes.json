@@ -6025,5 +6025,40 @@
     "location": "",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/2027-summer-internship-program-global-markets-sales-trading-and-financial-engineering"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170784": {
+    "title": "2027 | APEJ | Seoul | Investment Banking | Off-Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Seoul, Seoul, Korea, Republic of",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170784"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/188852": {
+    "title": "2027 | APEJ | Beijing | Investment Banking | Off-Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Beijing, Beijing, China",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/188852"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-global-markets-singapore": {
+    "title": "2027 APAC Long Internship Programme – Global Markets, Singapore",
+    "bank": "BNP Paribas",
+    "location": "Singapour, Singapour",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-global-markets-singapore"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-global-markets-hong-kong": {
+    "title": "2027 APAC Long Internship Programme – Global Markets, Hong Kong",
+    "bank": "BNP Paribas",
+    "location": "Hong Kong, Hong Kong",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/2027-apac-long-internship-programme-global-markets-hong-kong"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/japan-ctmc-credit-analyst-internship-6-months": {
+    "title": "JAPAN CTMC - Credit Analyst Internship (6 Months)",
+    "bank": "BNP Paribas",
+    "location": "Tokyo, Tokyo, Japon",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/japan-ctmc-credit-analyst-internship-6-months"
   }
 }
