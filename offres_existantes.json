@@ -6116,5 +6116,19 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-trading-assistant-lt-f-h"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809236": {
+    "title": "International Private Bank- Investment Specialist Vice President- Global Families Group (Canada Market)",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809236"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-investment-banking-etnr-industry-group-f-h": {
+    "title": "Internship - 6 months - Investment Banking - ETNR Industry group F/H",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-investment-banking-etnr-industry-group-f-h"
   }
 }
