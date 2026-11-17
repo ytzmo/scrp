@@ -6130,5 +6130,12 @@
     "location": "Paris",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-6-months-investment-banking-etnr-industry-group-f-h"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809447": {
+    "title": "Branch Manager - Trainee - North Tarrant Market - TX",
+    "bank": "J.P. Morgan",
+    "location": "North Richland Hills, TX, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809447"
   }
 }
