@@ -6151,5 +6151,26 @@
     "location": "Madrid, Communauté de Madrid, Espagne",
     "program_type": "Stage / Internship",
     "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/off-cycle-m-a-global-banking"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802559": {
+    "title": "International Private Bank, Private Banker, Belgium Market, Senior Associate",
+    "bank": "J.P. Morgan",
+    "location": "Bruxelles, Belgium",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802559"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810303": {
+    "title": "International Private Bank, UHNW Investor, Associate for Indonesia Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810303"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/capital-markets-profit-and-loss-reconciliation-trainee": {
+    "title": "Capital Markets Profit and Loss Reconciliation Trainee",
+    "bank": "BNP Paribas",
+    "location": "Lisbonne, Lisbonne, Portugal",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/capital-markets-profit-and-loss-reconciliation-trainee"
   }
 }
