@@ -6193,5 +6193,103 @@
     "location": "Singapore, Singapore",
     "program_type": "Campus",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726511"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189736": {
+    "title": "2027 | EMEA | London | FICC & Equities (Structuring) | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "London, Greater London, England, United Kingdom",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189736"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189444": {
+    "title": "2027 | EMEA | Copenhagen | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Copenhagen, Hovedstaden, Denmark",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189444"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811687": {
+    "title": "2027 Market Sales Analyst Internship – Emerging Talent Summer Experience Program",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811687"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409": {
+    "title": "2027 Latin American Debt Capital Markets Analyst Internship – Emerging Talent Summer Experience Program",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359": {
+    "title": "2027 Applied Research Associate - Summer Associate",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811859": {
+    "title": "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program",
+    "bank": "J.P. Morgan",
+    "location": "New York, NY, United States",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811859"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812201": {
+    "title": "International Private Bank, UHNW Banker, Executive Director, China Market, based in Singapore",
+    "bank": "J.P. Morgan",
+    "location": "Singapore, Singapore",
+    "program_type": "Campus",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812201"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2027-market-risk-intern": {
+    "title": "London - Long Term Internship 2027 - Market Risk Intern",
+    "bank": "BNP Paribas",
+    "location": "Londres, Angleterre, Royaume-Uni",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/london-long-term-internship-2027-market-risk-intern"
+  },
+  "https://group.bnpparibas/emploi-carriere/offre-emploi/internship-research-analyst-or-strategy-market-intelligence-m-f-3": {
+    "title": "Intern - Research Analyst for Strategy & Market Intelligence team in Luxembourg (M/F)",
+    "bank": "BNP Paribas",
+    "location": "Luxembourg, Luxembourg, Luxembourg",
+    "program_type": "Stage / Internship",
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/internship-research-analyst-or-strategy-market-intelligence-m-f-3"
+  },
+  "https://careers.societegenerale.com/en/job-offers/stage-pfe-business-analyst-sales-xas-26000NYE-en": {
+    "title": "Stage PFE – Business Analyst – Sales XAS",
+    "bank": "Société Générale",
+    "location": "Casablanca, Région de Casablanca-Settat, Maroc",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/stage-pfe-business-analyst-sales-xas-26000NYE-en"
+  },
+  "https://careers.societegenerale.com/en/job-offers/stage-trading-analyst-26000NX8-en": {
+    "title": "Stage - Trading Analyst",
+    "bank": "Société Générale",
+    "location": "Casablanca, Région de Casablanca-Settat, Maroc",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/stage-trading-analyst-26000NX8-en"
+  },
+  "https://careers.societegenerale.com/en/job-offers/credit-risk-trainee-26000NXG-en": {
+    "title": "Credit Risk Trainee",
+    "bank": "Société Générale",
+    "location": "Varsovie, Pologne",
+    "program_type": "Stage / Internship",
+    "url": "https://careers.societegenerale.com/en/job-offers/credit-risk-trainee-26000NXG-en"
+  },
+  "https://recrutement.natixis.com/en/job/internship-6-months-corporate-credit-analyst-mid-large-cap-f-m": {
+    "title": "Internship - 6 months - Corporate Credit Analyst Mid &amp; Large Cap F/M",
+    "bank": "Natixis",
+    "location": "Paris",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-6-months-corporate-credit-analyst-mid-large-cap-f-m"
+  },
+  "https://recrutement.natixis.com/en/job/internship-data-analyst-valuation-risk-equity-correlation-f-m": {
+    "title": "Internship - Data Analyst - Valuation Risk Equity Correlation F/M",
+    "bank": "Natixis",
+    "location": "Charenton le pont",
+    "program_type": "Internship",
+    "url": "https://recrutement.natixis.com/en/job/internship-data-analyst-valuation-risk-equity-correlation-f-m"
   }
 }
