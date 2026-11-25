@@ -6291,5 +6291,26 @@
     "location": "Charenton le pont",
     "program_type": "Internship",
     "url": "https://recrutement.natixis.com/en/job/internship-data-analyst-valuation-risk-equity-correlation-f-m"
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189835": {
+    "title": "2027 | EMEA | Dubai | FICC & Equities (Sales & Trading) | Seasonal/Off Cycle Internship",
+    "bank": "Goldman Sachs",
+    "location": "Dubai, United Arab Emirates",
+    "program_type": "Campus",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/189835"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170465-124-stage---ingenierie-quantitative---produit-structures-cross-assets-hf-reference--2026-117795--/": {
+    "title": "Stage - Ingénierie quantitative - produit structurés cross assets H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170465-124-stage---ingenierie-quantitative---produit-structures-cross-assets-hf-reference--2026-117795--/"
+  },
+  "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-124-stage---chargee-de-marketing-et-communication-b2b-amundi-epargne-salariale-et-retraite-hf-reference--2026-117790--/": {
+    "title": "Stage - chargé(e) de marketing et communication B2B AMUNDI Epargne Salariale & Retraite H/F",
+    "bank": "Crédit Agricole",
+    "location": "Paris - France",
+    "program_type": "Stage / Internship",
+    "url": "https://groupecreditagricole.jobs/fr/nos-offres-emploi/579-170468-124-stage---chargee-de-marketing-et-communication-b2b-amundi-epargne-salariale-et-retraite-hf-reference--2026-117790--/"
   }
 }
